@@ -458,8 +458,8 @@ if (statusFilter !== "ALL") {
 // ------------------ Cargar datos ------------------
 async function loadData() {
   // anti-cache en desarrollo
-  const res = await fetch(`/data/fallas.json?v=${Date.now()}`);
-  if (!res.ok) throw new Error("No se pudo cargar /data/fallas.json");
+  const res = await fetch(`./data/fallas.json?v=${Date.now()}`);
+  if (!res.ok) throw new Error("No se pudo cargar ./data/fallas.json");
   allFallas = await res.json();
 }
 

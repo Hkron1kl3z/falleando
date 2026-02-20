@@ -1,0 +1,2432 @@
+[
+  {
+    "name": "Sèneca-Iecla",
+    "falla_number": 97,
+    "section": "7B",
+    "lat": 39.47271514928657,
+    "lng": -0.35007997461738655
+  },
+  {
+    "name": "Sant Pere-Mare de Déu de la Vallivana",
+    "falla_number": 153,
+    "section": "5C",
+    "lat": 39.472035748204654,
+    "lng": -0.3310569137319714
+  },
+  {
+    "name": "Mercat de Castella",
+    "falla_number": 308,
+    "section": "4B",
+    "lat": 39.46574816053042,
+    "lng": -0.4028847355135055
+  },
+  {
+    "name": "Manuel Melià i Fuster-Carles Cortina",
+    "falla_number": 388,
+    "section": "3B",
+    "lat": 39.498608884289986,
+    "lng": -0.38933550661099564
+  },
+  {
+    "name": "Rodríguez de Cepeda-Llorenç Palmireno",
+    "falla_number": 285,
+    "section": "4B",
+    "lat": 39.468131665374294,
+    "lng": -0.35143872590369607
+  },
+  {
+    "name": "Convent de Jerusalem-Matemàtic Marzal",
+    "falla_number": 12,
+    "section": "Especial",
+    "lat": 39.46643844060057,
+    "lng": -0.37951592968874953
+  },
+  {
+    "name": "Plaza Sequiota-El Palmar",
+    "falla_number": 224,
+    "section": "7C",
+    "lat": 39.309924923887124,
+    "lng": -0.3178859293416302
+  },
+  {
+    "name": "Barraca-Església del Rosari",
+    "falla_number": 155,
+    "section": "5A",
+    "lat": 39.465794889357774,
+    "lng": -0.32963461177405284
+  },
+  {
+    "name": "Reina-Vicent Guillot",
+    "falla_number": 133,
+    "section": "6C",
+    "lat": 39.47323469853482,
+    "lng": -0.3279891629167065
+  },
+  {
+    "name": "Jerónima Galés-Litògraf Pascual i Abad",
+    "falla_number": 291,
+    "section": "1A",
+    "lat": 39.451570152583095,
+    "lng": -0.39159405472765896,
+    "sketch_url": "https://www.cendradigital.com/wp-content/uploads/16-JERO%CC%81NIMA-GALES-L.-PASCUAL-Y-ABAD-530x800.jpg"
+  "sketch_url": ""
+  },
+  {
+    "name": "Tres Forques-Conca-Pérez Galdós",
+    "falla_number": 146,
+    "section": "4A",
+    "lat": 39.46392550964067,
+    "lng": -0.3883555203598957
+  },
+  {
+    "name": "Santa Genoveva Torres-Arquitecte Tolsà",
+    "falla_number": 384,
+    "section": "1A",
+    "lat": 39.491670787473986,
+    "lng": -0.3650317499096773,
+    "sketch_url": "https://www.cendradigital.com/wp-content/uploads/17-LA-NOVA-D%E2%80%99ORRIOLS-566x800.jpg"
+  },
+  {
+    "name": "Enginyer Manuel Maese-Cristóbal Llorens",
+    "falla_number": 328,
+    "section": "4C",
+    "lat": 39.4826516487807,
+    "lng": -0.33055559683662017
+  },
+  {
+    "name": "Plaza del Poble.-Sant Roc",
+    "falla_number": 313,
+    "section": "8C",
+    "lat": 39.51717437790738,
+    "lng": -0.3780316053508553
+  },
+  {
+    "name": "Cuba-Puerto Rico",
+    "falla_number": 41,
+    "section": "4B",
+    "lat": 39.46105582277257,
+    "lng": -0.3763943028061851
+  },
+  {
+    "name": "Nord-Doctor Zamenhoff",
+    "falla_number": 205,
+    "section": "4A",
+    "lat": 39.4759901445261,
+    "lng": -0.39119388059648597
+  },
+  {
+    "name": "Lo Rat Penat",
+    "falla_number": 31,
+    "section": "1B",
+    "lat": 39.46588765777108,
+    "lng": -0.3539397451678329
+  },
+  {
+    "name": "Borrull-Socors",
+    "falla_number": 21,
+    "section": "6B",
+    "lat": 39.474605642732996,
+    "lng": -0.386723811653312
+  },
+  {
+    "name": "Enginyer Manuel Soto - França",
+    "falla_number": 395,
+    "section": "6A",
+    "lat": 39.45917916175017,
+    "lng": -0.33304296521736076
+  },
+  {
+    "name": "Músic Espí-Gravador Fabregat",
+    "falla_number": 257,
+    "section": "7A",
+    "lat": 39.49690862008502,
+    "lng": -0.3737189890264384
+  },
+  {
+    "name": "Pare Lluís Navarro-Remunta",
+    "falla_number": 347,
+    "section": "8C",
+    "lat": 39.47424055884697,
+    "lng": -0.32850237965088286
+  },
+  {
+    "name": "Poeta Alberola-Totana",
+    "falla_number": 231,
+    "section": "3C",
+    "lat": 39.46967902886709,
+    "lng": -0.39466452280721553
+  },
+  {
+    "name": "Santa Cruz de Tenerife",
+    "falla_number": 166,
+    "section": "6B",
+    "lat": 39.468065842002645,
+    "lng": -0.3999838836784349
+  },
+  {
+    "name": "Poetes Anònims-Real de Gandia",
+    "falla_number": 369,
+    "section": "8C",
+    "lat": 39.48604202864177,
+    "lng": -0.35389882888663265
+  },
+  {
+    "name": "Regne de València-Ciscar",
+    "falla_number": 161,
+    "section": "3B",
+    "lat": 39.46321283556124,
+    "lng": -0.36360127883959475
+  },
+  {
+    "name": "Plaza Segòvia-Doctor Tomàs Sala",
+    "falla_number": 249,
+    "section": "4B",
+    "lat": 39.44884432878056,
+    "lng": -0.39118506635730355
+  },
+  {
+    "name": "Avinguda de França-Alfred Toran i Olmos",
+    "falla_number": 377,
+    "section": "3A",
+    "lat": 39.45833266721674,
+    "lng": -0.34981762918440623
+  },
+  {
+    "name": "Pare Domènech-Pius XII",
+    "falla_number": 191,
+    "section": "7B",
+    "lat": 39.47939715709402,
+    "lng": -0.3938388314882098
+  },
+  {
+    "name": "Ripalda-Beneficència-Sant Ramon",
+    "falla_number": 80,
+    "section": "6C",
+    "lat": 39.47866804150547,
+    "lng": -0.3822463177606689
+  },
+  {
+    "name": "Montesa - Dr. Marañón",
+    "falla_number": 391,
+    "section": "8C",
+    "lat": 39.45541546762011,
+    "lng": -0.3942222945455906
+  },
+  {
+    "name": "Illes Canàries-Trafalgar",
+    "falla_number": 178,
+    "section": "1A",
+    "lat": 39.46248531292707,
+    "lng": -0.3469409259361088,
+    "sketch_url": "https://www.cendradigital.com/wp-content/uploads/13-ILLES-CANARIES-TRAFALGAR-566x800.jpg"
+  },
+  {
+    "name": "Arts i Oficis-Actor Llorens",
+    "falla_number": 212,
+    "section": "5B",
+    "lat": 39.4684383678488,
+    "lng": -0.354681514427446
+  },
+  {
+    "name": "Ramiro de Maeztu-Humanista Furió",
+    "falla_number": 192,
+    "section": "3B",
+    "lat": 39.46666367757254,
+    "lng": -0.3453857243157899
+  },
+  {
+    "name": "Marqués de Caro-Doctor Chiarri",
+    "falla_number": 16,
+    "section": "8B",
+    "lat": 39.47922421759747,
+    "lng": -0.38117718726790945
+  },
+  {
+    "name": "Sant Vicent-Periodista Azzati",
+    "falla_number": 89,
+    "section": "1A",
+    "lat": 39.470110088863635,
+    "lng": -0.379439155329058,
+    "sketch_url": "https://www.cendradigital.com/wp-content/uploads/8-SAN-VICENTE-PERIODISTA-AZZATI-605x800.jpg"
+  },
+  {
+    "name": "Carrera de Malilla-Illa Cabrera",
+    "falla_number": 276,
+    "section": "3B",
+    "lat": 39.44915317522933,
+    "lng": -0.37986959172337775
+  },
+  {
+    "name": "Ribera-Convent de Santa Clara",
+    "falla_number": 242,
+    "section": "1A",
+    "lat": 39.467751689734484,
+    "lng": -0.3773745861466461,
+    "sketch_url": "https://www.cendradigital.com/wp-content/uploads/15-RIBERA-CONVENTO-SANTA-CLARA-1-588x800.jpg"
+  },
+  {
+    "name": "Plaza Mossén Milà",
+    "falla_number": 271,
+    "section": "8B",
+    "lat": 39.47553053881567,
+    "lng": -0.3734182352053092
+  },
+  {
+    "name": "Lluís Oliag-Mariola-Granada",
+    "falla_number": 124,
+    "section": "8B",
+    "lat": 39.46029501955045,
+    "lng": -0.3645273596874645
+  },
+  {
+    "name": "Pintor Stolz-Burgos",
+    "falla_number": 108,
+    "section": "6C",
+    "lat": 39.47041391338216,
+    "lng": -0.3992068415348189
+  },
+  {
+    "name": "Guardacostes-Músic Jarque Cualladó",
+    "falla_number": 277,
+    "section": "6A",
+    "lat": 39.489254816493364,
+    "lng": -0.3834250646655532
+  },
+  {
+    "name": "Pare Alegre-Enric Navarro",
+    "falla_number": 241,
+    "section": "6A",
+    "lat": 39.48430173437475,
+    "lng": -0.3566697905647343
+  },
+  {
+    "name": "Sant Rafael-Antón Martín",
+    "falla_number": 109,
+    "section": "5B",
+    "lat": 39.47653775630954,
+    "lng": -0.32871006805430697
+  },
+  {
+    "name": "Jacinto Benavente-Regina Na Germana",
+    "falla_number": 283,
+    "section": "4A",
+    "lat": 39.46503559236648,
+    "lng": -0.3633524959570204
+  },
+  {
+    "name": "Doctor Álvaro López-Sant Joan de Déu",
+    "falla_number": 351,
+    "section": "7B",
+    "lat": 39.47782364166739,
+    "lng": -0.3315674545359686
+  },
+  {
+    "name": "Mestre Rodrigo-General Avilés",
+    "falla_number": 325,
+    "section": "3C",
+    "lat": 39.48322855718786,
+    "lng": -0.404595594475544
+  },
+  {
+    "name": "Ministre Luis Mayans-Argenter Suárez",
+    "falla_number": 281,
+    "section": "4B",
+    "lat": 39.48536060474848,
+    "lng": -0.3720636032781886
+  },
+  {
+    "name": "Jacint Labaila-Manuel Simó",
+    "falla_number": 294,
+    "section": "6B",
+    "lat": 39.459644712061916,
+    "lng": -0.3909764853881572
+  },
+  {
+    "name": "Glòria-Felicitat-El Tremolar",
+    "falla_number": 132,
+    "section": "3C",
+    "lat": 39.42443686966368,
+    "lng": -0.36573952392145254
+  },
+  {
+    "name": "Poeta García Lorca-Oltà",
+    "falla_number": 324,
+    "section": "4C",
+    "lat": 39.4530471194324,
+    "lng": -0.38070728342626975
+  },
+  {
+    "name": "Hort de Sant Valer-Avinguda de la Plata",
+    "falla_number": 368,
+    "section": "8C",
+    "lat": 39.457030196618064,
+    "lng": -0.3593050941860082
+  },
+  {
+    "name": "Indústria-Sants Just i Pastor",
+    "falla_number": 184,
+    "section": "2A",
+    "lat": 39.46778267486452,
+    "lng": -0.341797345121452
+  },
+  {
+    "name": "Camí de Barcelona-Travessera i Camí de Montcada",
+    "falla_number": 95,
+    "section": "6B",
+    "lat": 39.488275643332265,
+    "lng": -0.37691843175762624
+  },
+  {
+    "name": "Grups Mare de Déu del Carme",
+    "falla_number": 162,
+    "section": "4A",
+    "lat": 39.47549359600609,
+    "lng": -0.3362372941081122
+  },
+  {
+    "name": "Plaça d'Espanya-Ramón y Cajal-Pintor Benedito",
+    "falla_number": 180,
+    "section": "5A",
+    "lat": 39.46529990666118,
+    "lng": -0.3807050382177141
+  },
+  {
+    "name": "Sant Josep de la Muntanya-Terol",
+    "falla_number": 140,
+    "section": "2A",
+    "lat": 39.474632406927945,
+    "lng": -0.39212598459609016
+  },
+  {
+    "name": "Just Vilar-Mercat del Cabanyal",
+    "falla_number": 151,
+    "section": "1A",
+    "lat": 39.467230501200184,
+    "lng": -0.33323440488049083,
+    "sketch_url": "https://www.cendradigital.com/wp-content/uploads/12-JUST-VILAR-M.-DEL-CABANYAL-571x800.jpg"
+  },
+  {
+    "name": "Camí Nou de Picanya-Nicolau Primitiu",
+    "falla_number": 317,
+    "section": "3B",
+    "lat": 39.45634263283864,
+    "lng": -0.4031417034602587
+  },
+  {
+    "name": "Regne de València-Mestre Serrano",
+    "falla_number": 273,
+    "section": "7B",
+    "lat": 39.46356092517482,
+    "lng": -0.3681322788282425
+  },
+  {
+    "name": "Portal de la Valldigna-Salines",
+    "falla_number": 4,
+    "section": "7B",
+    "lat": 39.47753152338547,
+    "lng": -0.3785618783122072
+  },
+  {
+    "name": "Montortal-Torrefiel",
+    "falla_number": 33,
+    "section": "3A",
+    "lat": 39.49237680382123,
+    "lng": -0.3756507780432564
+  },
+  {
+    "name": "Pere Cabanes-Joan XXIII",
+    "falla_number": 374,
+    "section": "6B",
+    "lat": 39.49367087270659,
+    "lng": -0.381850084005313
+  },
+  {
+    "name": "Alcàsser-Iàtova",
+    "falla_number": 353,
+    "section": "6C",
+    "lat": 39.471768936459604,
+    "lng": -0.4085524358712818
+  },
+  {
+    "name": "Arxiduc Carles-Músic Gomis",
+    "falla_number": 316,
+    "section": "1B",
+    "lat": 39.45934771193545,
+    "lng": -0.4004608003342159
+  },
+  {
+    "name": "Castielfabib-Marqués de Sant Joan",
+    "falla_number": 311,
+    "section": "6A",
+    "lat": 39.47852444212378,
+    "lng": -0.3957911890306725
+  },
+  {
+    "name": "L'Equador-Alcalde Gurrea",
+    "falla_number": 320,
+    "section": "4B",
+    "lat": 39.49387795534716,
+    "lng": -0.3898406910079974
+  },
+  {
+    "name": "Plaza Hondures",
+    "falla_number": 296,
+    "section": "8B",
+    "lat": 39.47429651460324,
+    "lng": -0.34433241671383663
+  },
+  {
+    "name": "Doctor Manuel Candela-Beatriz Tortosa",
+    "falla_number": 159,
+    "section": "6A",
+    "lat": 39.47172162513898,
+    "lng": -0.3493109917710112
+  },
+  {
+    "name": "Sant Vicent de Paül-Dip. Clara Campoamor",
+    "falla_number": 319,
+    "section": "4C",
+    "lat": 39.491850685338285,
+    "lng": -0.3691418916563294
+  },
+  {
+    "name": "Plaza Mare de Déu de Lepant",
+    "falla_number": 147,
+    "section": "3C",
+    "lat": 39.428005165021204,
+    "lng": -0.36117128122587977
+  },
+  {
+    "name": "Campanar-Hipòlit Rovira",
+    "falla_number": 176,
+    "section": "5A",
+    "lat": 39.4871258438645,
+    "lng": -0.39012063625978444
+  },
+  {
+    "name": "Plaza Rojas Clemente",
+    "falla_number": 104,
+    "section": "7B",
+    "lat": 39.47277557519841,
+    "lng": -0.38521059950761277
+  },
+  {
+    "name": "Ciutat de l'Artista Faller",
+    "falla_number": 26,
+    "section": "6A",
+    "lat": 39.49849886623569,
+    "lng": -0.3937892995302449
+  },
+ {
+    "name": "Gravador Esteve-Ciril Amorós",
+    "falla_number": 84,
+    "section": "1A",
+    "lat": 39.46944772376713,
+    "lng": -0.366450419860437,
+    "sketch_url": "https://www.cendradigital.com/wp-content/uploads/7-GRABADOR-ESTEVE.jpg"
+  },
+  {
+    "name": "Barraca-Espadà",
+    "falla_number": 49,
+    "section": "3C",
+    "lat": 39.47192818142817,
+    "lng": -0.3282611407518631
+  },
+  {
+    "name": "Azcàrraga-Ferran el Catòlic",
+    "falla_number": 56,
+    "section": "3A",
+    "lat": 39.474570466711036,
+    "lng": -0.3883870931489558
+  },
+  {
+    "name": "Costa i Borràs-Agustina d'Aragó",
+    "falla_number": 38,
+    "section": "4A",
+    "lat": 39.45439730907497,
+    "lng": -0.38962108542024043
+  },
+  {
+    "name": "Regne de València-Sant Valer",
+    "falla_number": 170,
+    "section": "2B",
+    "lat": 39.46444424722499,
+    "lng": -0.37172878277946253
+  },
+  {
+    "name": "Bailén-Xàtiva",
+    "falla_number": 88,
+    "section": "3B",
+    "lat": 39.467585191647224,
+    "lng": -0.3776125925314483
+  },
+  {
+    "name": "Josep Benlliure-Vicent Guillot",
+    "falla_number": 76,
+    "section": "7C",
+    "lat": 39.4742678497239,
+    "lng": -0.32875701687514536
+  },
+  {
+    "name": "Cervantes-Pare Jofré",
+    "falla_number": 122,
+    "section": "3B",
+    "lat": 39.46774043076786,
+    "lng": -0.3814834673941599
+  },
+  {
+    "name": "Barri de Sant Josep",
+    "falla_number": 77,
+    "section": "3A",
+    "lat": 39.476113155733195,
+    "lng": -0.34863203864841114
+  },
+  {
+    "name": "Josep Maestre",
+    "falla_number": 116,
+    "section": "7C",
+    "lat": 39.467031511410894,
+    "lng": -0.40483137007986786
+  },
+  {
+    "name": "Na Jordana",
+    "falla_number": 9,
+    "section": "Especial",
+    "lat": 39.48100415750942,
+    "lng": -0.3801110157807973
+  },
+  {
+    "name": "General Pando-Serrano Flores",
+    "falla_number": 156,
+    "section": "5C",
+    "lat": 39.47319951840402,
+    "lng": -0.3602447548118345
+  },
+  {
+    "name": "Fontcalent-Lebon",
+    "falla_number": 323,
+    "section": "7A",
+    "lat": 39.46337169833306,
+    "lng": -0.3497664289841863
+  },
+  {
+    "name": "Llanterna-Na Rovella-Avinguda de l’Oest",
+    "falla_number": 6,
+    "section": "1A",
+    "lat": 39.472402895172,
+    "lng": -0.3797308036438255,
+    "sketch_url": "https://www.cendradigital.com/wp-content/uploads/02-LINTERNA-NA-ROBELLA-AV.-DEL-OESTE-584x800.jpg"
+  },
+  {
+    "name": "Manuel Arnau-La Creu Coberta",
+    "falla_number": 193,
+    "section": "7B",
+    "lat": 39.44786421875481,
+    "lng": -0.38657959709267087
+  },
+  {
+    "name": "Illes Canàries-Dama d'Elx",
+    "falla_number": 183,
+    "section": "2B",
+    "lat": 39.46228212072669,
+    "lng": -0.34306338304685524
+  },
+  {
+    "name": "Quart-Palomar",
+    "falla_number": 17,
+    "section": "1A",
+    "lat": 39.47592039770595,
+    "lng": -0.3836670718731066,
+    "sketch_url": "https://www.cendradigital.com/wp-content/uploads/4-QUART-I-PALOMAR-566x800.jpg"
+  },
+  {
+    "name": "Sant Joan Bosco-Duc de Mandas",
+    "falla_number": 157,
+    "section": "6C",
+    "lat": 39.49481764948125,
+    "lng": -0.3710398884674534
+  },
+  {
+    "name": "Llorers-Arquitecte Lucini",
+    "falla_number": 370,
+    "section": "6B",
+    "lat": 39.49088229762195,
+    "lng": -0.3750743192894241
+  },
+  {
+    "name": "Bisbe Amigó-Conca",
+    "falla_number": 78,
+    "section": "1B",
+    "lat": 39.46654741432958,
+    "lng": -0.3864793234797861
+  },
+  {
+    "name": "Mossén Josep Cuenca-Pinedo",
+    "falla_number": 230,
+    "section": "6C",
+    "lat": 39.42222368126172,
+    "lng": -0.3397869661332229
+  },
+  {
+    "name": "Cuba-Buenos Aires",
+    "falla_number": 142,
+    "section": "3C",
+    "lat": 39.46159199683606,
+    "lng": -0.37676044759049965
+  },
+  {
+    "name": "Plaza Patraix",
+    "falla_number": 130,
+    "section": "6B",
+    "lat": 39.46300851929425,
+    "lng": -0.39243996563591305
+  },
+  {
+    "name": "En Sendra-Plaza Coll",
+    "falla_number": 92,
+    "section": "7C",
+    "lat": 39.47473297889326,
+    "lng": -0.3818656189399902
+  },
+  {
+    "name": "Polo y Peyrolón-Ciutat de Mula",
+    "falla_number": 344,
+    "section": "6A",
+    "lat": 39.47441479319403,
+    "lng": -0.35442051025428367
+  },
+  {
+    "name": "Frederic Mistral-Murta",
+    "falla_number": 115,
+    "section": "2B",
+    "lat": 39.48610683337672,
+    "lng": -0.35785045869929083
+  },
+  {
+    "name": "Plaza Jesús",
+    "falla_number": 236,
+    "section": "7A",
+    "lat": 39.46035876884558,
+    "lng": -0.38848795472935727
+  },
+  {
+    "name": "Sapadors-Vicent Lleó",
+    "falla_number": 55,
+    "section": "2A",
+    "lat": 39.458852118489084,
+    "lng": -0.36898602983539497
+  },
+  {
+    "name": "Hernández Lázaro-Vall de la Ballestera",
+    "falla_number": 297,
+    "section": "7C",
+    "lat": 39.479311833161084,
+    "lng": -0.4033495755875469
+  },
+  {
+    "name": "Joan Baptista Vives",
+    "falla_number": 203,
+    "section": "8A",
+    "lat": 39.47060000654007,
+    "lng": -0.397476296431412
+  },
+  {
+    "name": "Mestre Arambul Sanz-Campanar",
+    "falla_number": 292,
+    "section": "4C",
+    "lat": 39.481608702760916,
+    "lng": -0.3953971581406712
+  },
+  {
+    "name": "Gayano Lluch",
+    "falla_number": 227,
+    "section": "1B",
+    "lat": 39.49173387148874,
+    "lng": -0.38086370356302623
+  },
+  {
+    "name": "Primat Reig-Sant Vicent de Paül",
+    "falla_number": 106,
+    "section": "5A",
+    "lat": 39.489826251421505,
+    "lng": -0.3694846799876428
+  },
+  {
+    "name": "Saineter Arniches-Arquitecte Ribes",
+    "falla_number": 248,
+    "section": "7B",
+    "lat": 39.4715515385269,
+    "lng": -0.40718453315638786
+  },
+  {
+    "name": "Fèlix Pizcueta-Ciril Amorós",
+    "falla_number": 102,
+    "section": "2B",
+    "lat": 39.466737906140914,
+    "lng": -0.37292688026949616
+  },
+  {
+    "name": "Blocs Platja",
+    "falla_number": 86,
+    "section": "2B",
+    "lat": 39.46581100145378,
+    "lng": -0.3266735260947662
+  },
+  {
+    "name": "Riu Bidasoa-Comte de Torrefiel",
+    "falla_number": 287,
+    "section": "6B",
+    "lat": 39.498171458274726,
+    "lng": -0.37741928924965046
+  },
+  {
+    "name": "Andreu Piles Ivars-Salvador Tuset",
+    "falla_number": 358,
+    "section": "2A",
+    "lat": 39.49635125065216,
+    "lng": -0.39508257511635086
+  },
+  {
+    "name": "Oltà-Juan Ramón Jiménez",
+    "falla_number": 259,
+    "section": "5A",
+    "lat": 39.45299133142912,
+    "lng": -0.37472024652913544
+  },
+  {
+    "name": "Maria Ros-Manuel Iranzo",
+    "falla_number": 299,
+    "section": "7C",
+    "lat": 39.42711859200086,
+    "lng": -0.3926302284069324
+  },
+  {
+    "name": "Àngel Guimerà-Pintor Vila Prades",
+    "falla_number": 182,
+    "section": "Fuera de Concurso",
+    "lat": 39.47003991500788,
+    "lng": -0.3898486667363017
+  },
+  {
+    "name": "Rubén Darío-Fra Lluís Colomer",
+    "falla_number": 360,
+    "section": "4C",
+    "lat": 39.47694606123328,
+    "lng": -0.353724216433461
+  },
+  {
+    "name": "Plaza Vicent Castell Maíques",
+    "falla_number": 385,
+    "section": "7C",
+    "lat": 39.4672035778067,
+    "lng": -0.41120491370361
+  },
+  {
+    "name": "Plaza Rosari-Calabuig",
+    "falla_number": 225,
+    "section": "4C",
+    "lat": 39.46381729935695,
+    "lng": -0.3317872479289378
+  },
+  {
+    "name": "Albacete-Marvà",
+    "falla_number": 158,
+    "section": "3B",
+    "lat": 39.46356125621929,
+    "lng": -0.38393547485670376
+  },
+  {
+    "name": "L'Horta Sud-La Costera",
+    "falla_number": 383,
+    "section": "Fuera de Concurso",
+    "lat": 39.49333969668813,
+    "lng": -0.39916320239478004
+  },
+ {
+    "name": "Espartero-Ramón y Cajal",
+    "falla_number": 204,
+    "section": "1A",
+    "lat": 39.46855013608175,
+    "lng": -0.3826168476826125,
+    "sketch_url": "https://www.cendradigital.com/wp-content/uploads/14-ESPARTERO-1-530x800.jpg"
+  },
+  {
+    "name": "Menéndez y Pelayo-Catalunya",
+    "falla_number": 272,
+    "section": "4A",
+    "lat": 39.47700261805716,
+    "lng": -0.3563404758400985
+  },
+  {
+    "name": "Almirall Cadarso-Comte d'Altea",
+    "falla_number": 14,
+    "section": "Especial",
+    "lat": 39.46583740509804,
+    "lng": -0.36841578049487167
+  },
+  {
+    "name": "Gravador Jordán-Escultor Pastor",
+    "falla_number": 195,
+    "section": "6A",
+    "lat": 39.44339565398936,
+    "lng": -0.3672899284724234
+  },
+  {
+    "name": "Giorgeta-Roís de Corella",
+    "falla_number": 189,
+    "section": "5A",
+    "lat": 39.45998088872869,
+    "lng": -0.3830761808637824
+  },
+  {
+    "name": "Ramon de Rocafull-Comte d'Alaquàs",
+    "falla_number": 171,
+    "section": "4B",
+    "lat": 39.47238779638831,
+    "lng": -0.33215088858166697
+  },
+  {
+    "name": "Baró de Patraix-Conca",
+    "falla_number": 215,
+    "section": "4B",
+    "lat": 39.46199328729429,
+    "lng": -0.3901402600898215
+  },
+  {
+    "name": "Pare Viñas-Agustín Lara",
+    "falla_number": 138,
+    "section": "6A",
+    "lat": 39.49344736202629,
+    "lng": -0.3710988159255096
+  },
+  {
+    "name": "Vidal de Canyelles-Sánchez Coello",
+    "falla_number": 70,
+    "section": "7C",
+    "lat": 39.470898729883,
+    "lng": -0.3340952974155169
+  },
+  {
+    "name": "Pintor Salvador Abril-Peris i Valero",
+    "falla_number": 174,
+    "section": "2A",
+    "lat": 39.460209638830186,
+    "lng": -0.36835161017455764
+  },
+  {
+    "name": "Aras de Alpuente-Castell de Pop",
+    "falla_number": 59,
+    "section": "3C",
+    "lat": 39.44814866367574,
+    "lng": -0.3333018650210224
+  },
+  {
+    "name": "Quart-Túria",
+    "falla_number": 137,
+    "section": "8A",
+    "lat": 39.47559866222997,
+    "lng": -0.3852955868424629
+  },
+  {
+    "name": "Riu Tajo-Cavite",
+    "falla_number": 346,
+    "section": "5C",
+    "lat": 39.47767532871639,
+    "lng": -0.32741127595698505
+  },
+  {
+    "name": "Benicadell-Sant Roc",
+    "falla_number": 223,
+    "section": "4A",
+    "lat": 39.49052484285274,
+    "lng": -0.39359869668803743
+  },
+  {
+    "name": "Plaza Pintor Segrelles",
+    "falla_number": 53,
+    "section": "1B",
+    "lat": 39.464285028304666,
+    "lng": -0.38528533570549606
+  },
+  {
+    "name": "Pintor Salvador Abril-Pere III El Gran",
+    "falla_number": 126,
+    "section": "4B",
+    "lat": 39.462404020462785,
+    "lng": -0.3697881186556139
+  },
+  {
+    "name": "Carcaixent-Compromís de Casp",
+    "falla_number": 200,
+    "section": "8A",
+    "lat": 39.45957313401032,
+    "lng": -0.38823533497749685
+  },
+  {
+    "name": "Carters-Litògraf Pasqual i Abad",
+    "falla_number": 341,
+    "section": "5C",
+    "lat": 39.449292699953794,
+    "lng": -0.38938505671853046
+  },
+  {
+    "name": "Ciutat de Córdova-Vicent Tomàs Martí",
+    "falla_number": 361,
+    "section": "8A",
+    "lat": 39.49469301474271,
+    "lng": -0.4048301514353266
+  },
+  {
+    "name": "Plaza Mercat de Montolivet",
+    "falla_number": 94,
+    "section": "3B",
+    "lat": 39.45962441767419,
+    "lng": -0.36130260918637747
+  },
+  {
+    "name": "Joaquim Costa-Comte d'Altea",
+    "falla_number": 278,
+    "section": "1B",
+    "lat": 39.466282687706006,
+    "lng": -0.36740986607630627
+  },
+  {
+    "name": "General Llorens",
+    "falla_number": 93,
+    "section": "4A",
+    "lat": 39.49051982054972,
+    "lng": -0.3855026620048148
+  },
+  {
+    "name": "Comte de Salvatierra-Ciril Amorós",
+    "falla_number": 149,
+    "section": "1A",
+    "lat": 39.46893079659118,
+    "lng": -0.3677151406950975,
+    "sketch_url": "https://www.cendradigital.com/wp-content/uploads/11-CONDE-SALVATIERRA-CIRILO-AMOROS-566x800.jpg"
+  },
+  {
+    "name": "Corretgeria-Bany dels Pavesos",
+    "falla_number": 50,
+    "section": "6A",
+    "lat": 39.475389399096265,
+    "lng": -0.37670245719812756
+  },
+  {
+    "name": "Vicent Sancho Tello-Xile",
+    "falla_number": 330,
+    "section": "2A",
+    "lat": 39.46971704584027,
+    "lng": -0.35675921723112397
+  },
+  {
+    "name": "Arxiduc Carles-Xiva",
+    "falla_number": 87,
+    "section": "3A",
+    "lat": 39.4661152568831,
+    "lng": -0.3947707565357127
+  },
+  {
+    "name": "Marqués de Montortal-Josep Esteve",
+    "falla_number": 61,
+    "section": "3C",
+    "lat": 39.49567581324469,
+    "lng": -0.3759723486426317
+  },
+  {
+    "name": "Regne de València-Duc de Calàbria",
+    "falla_number": 187,
+    "section": "Especial",
+    "lat": 39.4637036789513,
+    "lng": -0.36696480895598893
+  },
+  {
+    "name": "Cases de Bàrcena",
+    "falla_number": 290,
+    "section": "8C",
+    "lat": 39.521355896197555,
+    "lng": -0.358425326048514
+  },
+  {
+    "name": "Pianista Martínez Carrasco-Eslida",
+    "falla_number": 343,
+    "section": "8A",
+    "lat": 39.44765777458184,
+    "lng": -0.3709931001417475
+  },
+  {
+    "name": "Plaza Lluís Cano",
+    "falla_number": 121,
+    "section": "5B",
+    "lat": 39.50278906654451,
+    "lng": -0.41975454574939064
+  },
+  {
+    "name": "Exposició-Misser Mascó",
+    "falla_number": 22,
+    "section": "Especial",
+    "lat": 39.475304228431845,
+    "lng": -0.36202199835634036
+  },
+  {
+    "name": "Norman Bethune - Guillem Despuig",
+    "falla_number": 261,
+    "section": "6C",
+    "lat": 39.46474673453113,
+    "lng": -0.39773155383276465
+  },
+  {
+    "name": "Plaza La Creu -Els Àngels",
+    "falla_number": 42,
+    "section": "5C",
+    "lat": 39.46801715082672,
+    "lng": -0.3315859880032733
+  },
+  {
+    "name": "Josep Benlliure-Teatre de la Marina",
+    "falla_number": 168,
+    "section": "6C",
+    "lat": 39.46623488747877,
+    "lng": -0.3307482531076747
+  },
+  {
+    "name": "Mestre Valls-Marí Albesa",
+    "falla_number": 128,
+    "section": "7A",
+    "lat": 39.46457381688759,
+    "lng": -0.34200305145928683
+  },
+  {
+    "name": "Plaza Pere María Orts i Bosch",
+    "falla_number": 286,
+    "section": "8C",
+    "lat": 39.4703536252716,
+    "lng": -0.41352278127992215
+  },
+  {
+    "name": "Pintor Maella-França-Menorca",
+    "falla_number": 380,
+    "section": "4A",
+    "lat": 39.458259797596426,
+    "lng": -0.3482630248900891
+  },
+  {
+    "name": "Murillo-Palomar",
+    "falla_number": 8,
+    "section": "8B",
+    "lat": 39.47526444476464,
+    "lng": -0.38204603705016693
+  },
+  {
+    "name": "Lluís Lamarca-Velázquez",
+    "falla_number": 67,
+    "section": "4A",
+    "lat": 39.47099581853792,
+    "lng": -0.40145133554004403
+  },
+  {
+    "name": "Lleons-Poeta Mas i Ros",
+    "falla_number": 247,
+    "section": "5B",
+    "lat": 39.4699483292999,
+    "lng": -0.34665833627610876
+  },
+  {
+    "name": "Carretera d'Escrivà-Coop. de Sant Ferran",
+    "falla_number": 51,
+    "section": "7A",
+    "lat": 39.45792290397415,
+    "lng": -0.3847567600086444
+  },
+  {
+    "name": "Santiago Rusiñol-Comte de Lumiares",
+    "falla_number": 366,
+    "section": "4B",
+    "lat": 39.49745257459591,
+    "lng": -0.37065933733266543
+  },
+  {
+    "name": "Pius XI-Fontanars",
+    "falla_number": 232,
+    "section": "3B",
+    "lat": 39.45900337943647,
+    "lng": -0.3932316582120735
+  },
+  {
+    "name": "Trinitat-Alboraia",
+    "falla_number": 71,
+    "section": "6B",
+    "lat": 39.48216349442592,
+    "lng": -0.3703718162476261
+  },
+  {
+    "name": "Sueca-Literat Azorín",
+    "falla_number": 177,
+    "section": "Especial",
+    "lat": 39.46035936819095,
+    "lng": -0.3743065517691463
+  },
+  {
+    "name": "Escultor García Mas-Puerto de Santa María",
+    "falla_number": 321,
+    "section": "8A",
+    "lat": 39.48505060110104,
+    "lng": -0.39994799188087216
+  },
+  {
+    "name": "Santa Maria Micaela-Martí l'Humà",
+    "falla_number": 300,
+    "section": "1B",
+    "lat": 39.47168631594376,
+    "lng": -0.3917286539946449
+  },
+  {
+    "name": "Ausiàs March-Na Rovella",
+    "falla_number": 218,
+    "section": "5C",
+    "lat": 39.45022356110458,
+    "lng": -0.37276306638507456
+  },
+  {
+    "name": "Alqueries de Bellver-Garbí",
+    "falla_number": 74,
+    "section": "2B",
+    "lat": 39.49216943127674,
+    "lng": -0.39486263355254964
+  },
+  {
+    "name": "Bisbe Jaume Pérez-Lluís Oliag",
+    "falla_number": 186,
+    "section": "4C",
+    "lat": 39.459612232474804,
+    "lng": -0.36662713240429057
+  },
+  {
+    "name": "Joaquim Costa-Borriana",
+    "falla_number": 54,
+    "section": "3B",
+    "lat": 39.465244970923855,
+    "lng": -0.3664877643152533
+  },
+  {
+    "name": "La Pobla del Duc-Benipeixcar",
+    "falla_number": 163,
+    "section": "7A",
+    "lat": 39.48695663931614,
+    "lng": -0.37597989049484126
+  },
+  {
+    "name": "Calvo Acacio",
+    "falla_number": 258,
+    "section": "5A",
+    "lat": 39.45301536477047,
+    "lng": -0.3905431396733902
+  },
+  {
+    "name": "Grup de Peixcadors  del Perellonet",
+    "falla_number": 329,
+    "section": "7B",
+    "lat": 39.30801699570303,
+    "lng": -0.2971537689519083
+  },
+  {
+    "name": "Barri de La Llum",
+    "falla_number": 235,
+    "section": "2B",
+    "lat": 39.46739948966099,
+    "lng": -0.4152655550543899
+  },
+  {
+    "name": "Senent Ibáñez-Massarrojos",
+    "falla_number": 237,
+    "section": "8B",
+    "lat": 39.540459361592085,
+    "lng": -0.40565132037422647
+  },
+  {
+    "name": "República Argentina-Doctor Pallarés Iranzo",
+    "falla_number": 113,
+    "section": "5A",
+    "lat": 39.47394159840182,
+    "lng": -0.35231140772373915
+  },
+  {
+    "name": "Ferros-Joan Baptista Perales",
+    "falla_number": 179,
+    "section": "3B",
+    "lat": 39.46268570402985,
+    "lng": -0.3390197788263815
+  },
+  {
+    "name": "Bosseria-Tossal",
+    "falla_number": 15,
+    "section": "3A",
+    "lat": 39.47614264033041,
+    "lng": -0.3803071851986936
+  },
+  {
+    "name": "Blanqueries",
+    "falla_number": 339,
+    "section": "8A",
+    "lat": 39.48008514919252,
+    "lng": -0.3772671542038569
+  },
+  {
+    "name": "Pintor Pasqual Capuz-Fontanars",
+    "falla_number": 327,
+    "section": "6B",
+    "lat": 39.46207918311973,
+    "lng": -0.39653900502923506
+  },
+  {
+    "name": "Plaza Lope de Vega",
+    "falla_number": 110,
+    "section": "3C",
+    "lat": 39.473984997897055,
+    "lng": -0.37680881968192065
+  },
+  {
+    "name": "Evarist Bas-Cullera",
+    "falla_number": 356,
+    "section": "8C",
+    "lat": 39.50486614317032,
+    "lng": -0.4191242078180465
+  },
+  {
+    "name": "Pere Cabanes-Comte de Lumiares",
+    "falla_number": 298,
+    "section": "5C",
+    "lat": 39.49531013667567,
+    "lng": -0.37253284158863637
+  },
+  {
+    "name": "Plaza Mercat de Russafa",
+    "falla_number": 2,
+    "section": "5C",
+    "lat": 39.46240126998927,
+    "lng": -0.37157428483459604
+  },
+  {
+    "name": "Doctor Manuel Candela-Avinguda del Port",
+    "falla_number": 150,
+    "section": "6A",
+    "lat": 39.466547227943146,
+    "lng": -0.3489820005091375
+  },
+  {
+    "name": "Carrera de Sant Lluís-Doctor Waksman",
+    "falla_number": 114,
+    "section": "4A",
+    "lat": 39.45607372505492,
+    "lng": -0.37166030348986734
+  },
+  {
+    "name": "Doctor Sanchis Bergón-Túria",
+    "falla_number": 127,
+    "section": "6A",
+    "lat": 39.47842901093516,
+    "lng": -0.38548799488016167
+  },
+  {
+    "name": "Jesús-Sant Francesc de Borja",
+    "falla_number": 173,
+    "section": "2B",
+    "lat": 39.4658897804743,
+    "lng": -0.3841296491280362
+  },
+  {
+    "name": "Barri de Sant Isidre",
+    "falla_number": 260,
+    "section": "3C",
+    "lat": 39.453587061853845,
+    "lng": -0.40444333961030704
+  },
+  {
+    "name": "Cadis-Mossén Femenia-Puerto Rico",
+    "falla_number": 348,
+    "section": "6A",
+    "lat": 39.46210003770514,
+    "lng": -0.3739215059338786
+  },
+  {
+    "name": "Vivons-Romeu de Corbera",
+    "falla_number": 213,
+    "section": "6C",
+    "lat": 39.46081230213626,
+    "lng": -0.3717515085287368
+  },
+  {
+    "name": "Manuel de Falla-Tamarindes",
+    "falla_number": 245,
+    "section": "4A",
+    "lat": 39.47627713693108,
+    "lng": -0.3990041360320644
+  },
+  {
+    "name": "Pérez Galdós-Calixt III",
+    "falla_number": 164,
+    "section": "5A",
+    "lat": 39.47044236098282,
+    "lng": -0.39092072921271404
+  },
+ {
+    "name": "Plaza Mercat Central",
+    "falla_number": 1,
+    "section": "1A",
+    "lat": 39.47348968762283,
+    "lng": -0.3780614929139119,
+    "sketch_url": "https://www.cendradigital.com/wp-content/uploads/01-PLAZA-DEL-MERCADO-CENTRAL-572x800.jpg"
+  },
+  {
+    "name": "L'Alguer-Enginyer Rafael Janini",
+    "falla_number": 123,
+    "section": "3A",
+    "lat": 39.46995896900919,
+    "lng": -0.33936808191609164
+  },
+  {
+    "name": "Palleter-Erudit Orellana",
+    "falla_number": 201,
+    "section": "4A",
+    "lat": 39.47066618257236,
+    "lng": -0.38750473341092323
+  },
+  {
+    "name": "Pérez Galdós-Jesús-Mestre Sosa",
+    "falla_number": 172,
+    "section": "8C",
+    "lat": 39.46295128211806,
+    "lng": -0.38808417340727086
+  },
+  {
+    "name": "Pizarro-Ciril Amorós",
+    "falla_number": 165,
+    "section": "3A",
+    "lat": 39.467123406936295,
+    "lng": -0.3719490931032086
+  },
+  {
+    "name": "Pintor Domingo-Guillem de Castro",
+    "falla_number": 91,
+    "section": "8B",
+    "lat": 39.47438553541575,
+    "lng": -0.37951578966779664
+  },
+  {
+    "name": "Sant Ignasi de Loiola-Jesús i Maria",
+    "falla_number": 160,
+    "section": "3C",
+    "lat": 39.47387374928242,
+    "lng": -0.38914092827422275
+  },
+  {
+    "name": "Acàcies-Picaio",
+    "falla_number": 118,
+    "section": "4C",
+    "lat": 39.49099752242869,
+    "lng": -0.38827057385365543
+  },
+  {
+    "name": "Baix-Mesó de Morella",
+    "falla_number": 46,
+    "section": "8B",
+    "lat": 39.477540303774745,
+    "lng": -0.3794835192595184
+  },
+  {
+    "name": "Avinguda de Valladolid-Enginyer Vicent Pichó",
+    "falla_number": 342,
+    "section": "5C",
+    "lat": 39.488624944043536,
+    "lng": -0.3571350504069377
+  },
+  {
+    "name": "Serra Martés-Miguel Servet",
+    "falla_number": 336,
+    "section": "5A",
+    "lat": 39.488057158784265,
+    "lng": -0.39281340655909247
+  },
+  {
+    "name": "Universitat Vella-Plaza Patriarca",
+    "falla_number": 305,
+    "section": "5C",
+    "lat": 39.47186774954473,
+    "lng": -0.3737676386276045
+  },
+  {
+    "name": "Malva-Rosa-Antoni Ponz-Cavite",
+    "falla_number": 112,
+    "section": "1B",
+    "lat": 39.48233615987615,
+    "lng": -0.32814144785635796
+  },
+  {
+    "name": "Josep Soto Micó-Síndic Mocholí",
+    "falla_number": 246,
+    "section": "6C",
+    "lat": 39.44017378574481,
+    "lng": -0.3877072642967807
+  },
+  {
+    "name": "Daroca-Pare Viñas",
+    "falla_number": 117,
+    "section": "7A",
+    "lat": 39.495140236791634,
+    "lng": -0.3668622360507284
+  },
+  {
+    "name": "Ferran el Catòlic-Àngel Guimerà",
+    "falla_number": 79,
+    "section": "1B",
+    "lat": 39.46902068609314,
+    "lng": -0.38614064985348234
+  },
+  {
+    "name": "Pelai-Matemàtic Marzal",
+    "falla_number": 57,
+    "section": "4C",
+    "lat": 39.46626507696817,
+    "lng": -0.37883658497576084
+  },
+  {
+    "name": "Xiva-Francisco de Llano",
+    "falla_number": 302,
+    "section": "5B",
+    "lat": 39.46569756541261,
+    "lng": -0.39069179055456327
+  },
+  {
+    "name": "Plaza Sant Bult",
+    "falla_number": 19,
+    "section": "4C",
+    "lat": 39.47503212429119,
+    "lng": -0.37051485117174027
+  },
+  {
+    "name": "Plaza de la Tenda",
+    "falla_number": 274,
+    "section": "3B",
+    "lat": 39.49746987963352,
+    "lng": -0.4178785752519145
+  },
+  {
+    "name": "Hellín-Pere de Luna",
+    "falla_number": 326,
+    "section": "5A",
+    "lat": 39.43350870092288,
+    "lng": -0.39052991297316186
+  },
+  {
+    "name": "Plaza Doctor Berenguer Ferrer",
+    "falla_number": 280,
+    "section": "8C",
+    "lat": 39.46704952555757,
+    "lng": -0.40869583327406844
+  },
+  {
+    "name": "Poeta Emili Baró-Enric Ginesta",
+    "falla_number": 352,
+    "section": "5B",
+    "lat": 39.49183166236876,
+    "lng": -0.35844506393542175
+  },
+  {
+    "name": "Peris i Valero-Cuba",
+    "falla_number": 239,
+    "section": "3C",
+    "lat": 39.457701025437906,
+    "lng": -0.3741454897237825
+  },
+ {
+    "name": "Ciscar-Borriana",
+    "falla_number": 83,
+    "section": "1A",
+    "lat": 39.46569776037665,
+    "lng": -0.3653829545001309,
+    "sketch_url": "https://www.cendradigital.com/wp-content/uploads/6-CISCAR-BURRIANA-678x800.jpg"
+  },
+  {
+    "name": "Escalante-Empar Guillén",
+    "falla_number": 234,
+    "section": "8A",
+    "lat": 39.46944667276165,
+    "lng": -0.3306751724519503
+  },
+  {
+    "name": "Burjassot-Pare Carbonell",
+    "falla_number": 111,
+    "section": "2B",
+    "lat": 39.493548539741205,
+    "lng": -0.3927055613298509
+  },
+  {
+    "name": "Goya-El Brasil",
+    "falla_number": 81,
+    "section": "4C",
+    "lat": 39.4719160994899,
+    "lng": -0.3987727019103844
+  },
+  {
+    "name": "Francesc Climent-L'Uruguai",
+    "falla_number": 340,
+    "section": "5B",
+    "lat": 39.455265737447746,
+    "lng": -0.3867734708515959
+  },
+  {
+    "name": "Àngel Villena-Pintor Sabater",
+    "falla_number": 307,
+    "section": "8A",
+    "lat": 39.448676716528475,
+    "lng": -0.36746676348664586
+  },
+  {
+    "name": "Rubén Vela-Doctor Waksman",
+    "falla_number": 216,
+    "section": "5B",
+    "lat": 39.45648921560952,
+    "lng": -0.3738427251341591
+  },
+  {
+    "name": "Fra J. Rodríguez-Pintor Cortina",
+    "falla_number": 141,
+    "section": "4C",
+    "lat": 39.45439573111787,
+    "lng": -0.3916678806495576
+  },
+  {
+    "name": "Primat Reig-Vinaròs",
+    "falla_number": 188,
+    "section": "4B",
+    "lat": 39.48780326855104,
+    "lng": -0.3652351258713155
+  },
+  {
+    "name": "Arquitecte Alfaro-Francesc Cubells",
+    "falla_number": 228,
+    "section": "4A",
+    "lat": 39.463638415411694,
+    "lng": -0.3351432531121549
+  },
+  {
+    "name": "La Vall de Laguar-Pare Ferris",
+    "falla_number": 30,
+    "section": "6C",
+    "lat": 39.48250077060857,
+    "lng": -0.3843671031891744
+  },
+  {
+    "name": "Maties Perello-Lluís de Santàngel",
+    "falla_number": 279,
+    "section": "2B",
+    "lat": 39.46182218665583,
+    "lng": -0.36690804986603626
+  },
+  {
+    "name": "Campament-La Iessa",
+    "falla_number": 262,
+    "section": "5B",
+    "lat": 39.49953914803586,
+    "lng": -0.4272427402954683
+  },
+  {
+    "name": "Enginyer Josep Sirera-Pius IX",
+    "falla_number": 359,
+    "section": "6A",
+    "lat": 39.44663089770351,
+    "lng": -0.3918781223702056
+  },
+  {
+    "name": "Cuba-Dénia",
+    "falla_number": 85,
+    "section": "4A",
+    "lat": 39.46214391685996,
+    "lng": -0.37719204417357244
+  },
+  {
+    "name": "Sant Vicent Màrtir-Pianista Empar Iturbi",
+    "falla_number": 152,
+    "section": "3B",
+    "lat": 39.45504189363206,
+    "lng": -0.38381322394965184
+  },
+  {
+    "name": "Alemanya-El Batxiller",
+    "falla_number": 303,
+    "section": "5C",
+    "lat": 39.48171019289159,
+    "lng": -0.3615592745139162
+  },
+  {
+    "name": "Avinguda de Burjassot-Joaquim Ballester",
+    "falla_number": 135,
+    "section": "4B",
+    "lat": 39.48499664981252,
+    "lng": -0.38532362703324047
+  },
+  {
+    "name": "Plaza Santa Creu",
+    "falla_number": 73,
+    "section": "8C",
+    "lat": 39.47870902830696,
+    "lng": -0.37796089639106206
+  },
+  {
+    "name": "Plaza de l'Àngel",
+    "falla_number": 198,
+    "section": "8B",
+    "lat": 39.478125223089975,
+    "lng": -0.37733954379343254
+  },
+  {
+    "name": "Plaza del Negret",
+    "falla_number": 309,
+    "section": "6A",
+    "lat": 39.47606471901717,
+    "lng": -0.3774221698567762
+  },
+  {
+    "name": "Manuel Melià i Fuster-María Fernanda D'Ocón",
+    "falla_number": 389,
+    "section": "8A",
+    "lat": 39.49657840125326,
+    "lng": -0.3919007137610434
+  },
+  {
+    "name": "Joaquim Navarro-Carrícola",
+    "falla_number": 72,
+    "section": "7A",
+    "lat": 39.45285577758091,
+    "lng": -0.38692476532345454
+  },
+  {
+    "name": "Tres Camins-Pinedo",
+    "falla_number": 314,
+    "section": "6A",
+    "lat": 39.4315152939176,
+    "lng": -0.3428958715182895
+  },
+  {
+    "name": "Actor Mora-Constitució",
+    "falla_number": 13,
+    "section": "7A",
+    "lat": 39.48638260551808,
+    "lng": -0.3779630963965322
+  },
+  {
+    "name": "Blasco Ibáñez-Mestre Ripoll",
+    "falla_number": 256,
+    "section": "8C",
+    "lat": 39.471492565773,
+    "lng": -0.3379373810389744
+  },
+  {
+    "name": "Josep Maria Bayarri-Los Isidros",
+    "falla_number": 371,
+    "section": "7B",
+    "lat": 39.46792982172759,
+    "lng": -0.413282900120297
+  },
+  {
+    "name": "Periodista Gil Sumbiela-Assutzena",
+    "falla_number": 288,
+    "section": "4A",
+    "lat": 39.492963347730765,
+    "lng": -0.39012458308617143
+  },
+  {
+    "name": "La Vall d'Albaida-La Canal de Navarrés",
+    "falla_number": 379,
+    "section": "6B",
+    "lat": 39.49219526139716,
+    "lng": -0.40182444701162895
+  },
+  {
+    "name": "Plaza Sant Miquel-Vicent Iborra",
+    "falla_number": 18,
+    "section": "8A",
+    "lat": 39.476824536112765,
+    "lng": -0.3808785937650569
+  },
+  {
+    "name": "Camí de Montcada-Pintor Jacomart",
+    "falla_number": 295,
+    "section": "5A",
+    "lat": 39.49588618601104,
+    "lng": -0.3811163787157905
+  },
+  {
+    "name": "Isabel la Catòlica-Ciril Amorós",
+    "falla_number": 289,
+    "section": "2A",
+    "lat": 39.46802481927411,
+    "lng": -0.36987256054880074
+  },
+  {
+    "name": "Plaza del Pilar",
+    "falla_number": 34,
+    "section": "Especial",
+    "lat": 39.47135704324243,
+    "lng": -0.3829647012506613
+  },
+  {
+    "name": "Iecla-Cardenal Benlloch",
+    "falla_number": 131,
+    "section": "7A",
+    "lat": 39.47166911653631,
+    "lng": -0.35396008611612534
+  },
+  {
+    "name": "Carrera de Sant Lluís-Rafael Albiñana",
+    "falla_number": 251,
+    "section": "6C",
+    "lat": 39.45246262037355,
+    "lng": -0.371277675154022
+  },
+  {
+    "name": "Mare de Déu de la Fontsanta",
+    "falla_number": 190,
+    "section": "7C",
+    "lat": 39.46577630453772,
+    "lng": -0.4080213128225596
+  },
+  {
+    "name": "Nador-Miraculosa",
+    "falla_number": 90,
+    "section": "4B",
+    "lat": 39.483913498954564,
+    "lng": -0.3735688802301487
+  },
+  {
+    "name": "Sevilla-Dénia",
+    "falla_number": 58,
+    "section": "6C",
+    "lat": 39.46333807919075,
+    "lng": -0.37378872671948105
+  },
+  {
+    "name": "Sagunt-Sant Antoni-Pare Urbano",
+    "falla_number": 45,
+    "section": "4C",
+    "lat": 39.48897072711106,
+    "lng": -0.37309611399724774
+  },
+  {
+    "name": "Doctor Olóriz-Arquebisbe Fabián i Fuero",
+    "falla_number": 5,
+    "section": "3A",
+    "lat": 39.48408384548054,
+    "lng": -0.38061375175443984
+  },
+  {
+    "name": "Riu Segura-Forn d'Alcedo",
+    "falla_number": 265,
+    "section": "5A",
+    "lat": 39.432173663583576,
+    "lng": -0.374884347501508
+  },
+  {
+    "name": "Benimodo-Enginyer Dicenta",
+    "falla_number": 293,
+    "section": "7B",
+    "lat": 39.49926935888376,
+    "lng": -0.4207335930376246
+  },
+  {
+    "name": "Avinguda de la Plata-La Senyera",
+    "falla_number": 233,
+    "section": "6B",
+    "lat": 39.45711861120772,
+    "lng": -0.3623395997560489
+  },
+  {
+    "name": "Monestir de Poblet-Aparicio Albiñana",
+    "falla_number": 197,
+    "section": "Especial",
+    "lat": 39.483874436007554,
+    "lng": -0.3970309454529852,
+ "sketch_url": "https://www.cendradigital.com/wp-content/uploads/Boceto-Falla-Antiga-2026.jpg"
+  },
+
+"sketch_url": ""
+  {
+    "name": "Guillem de Castro-Triador",
+    "falla_number": 36,
+    "section": "8C",
+    "lat": 39.47273001915721,
+    "lng": -0.3838569305448312
+  },
+  {
+    "name": "Major-Moraira-Natzaret",
+    "falla_number": 169,
+    "section": "4B",
+    "lat": 39.45026327279821,
+    "lng": -0.33347762771092826
+  },
+  {
+    "name": "Joan d'Aguiló-Gaspar Aguilar",
+    "falla_number": 35,
+    "section": "3C",
+    "lat": 39.45662692644401,
+    "lng": -0.3905502203747801
+  },
+  {
+    "name": "Sèneca-Poeta Mas i Ros",
+    "falla_number": 312,
+    "section": "7A",
+    "lat": 39.471130657003656,
+    "lng": -0.3507873043867637
+  },
+  {
+    "name": "Carabasses-En Gall",
+    "falla_number": 40,
+    "section": "5B",
+    "lat": 39.47300373620803,
+    "lng": -0.3787288315664735
+  },
+  {
+    "name": "Visitació-Oriola",
+    "falla_number": 194,
+    "section": "6B",
+    "lat": 39.48472319406416,
+    "lng": -0.3769284575294549
+  },
+  {
+    "name": "Mare de Déu de la Cabeça-J.M. Mortes Lerma",
+    "falla_number": 282,
+    "section": "7A",
+    "lat": 39.462133487937685,
+    "lng": -0.3993194027976139
+  },
+  {
+    "name": "Embarcador-Historiador Betí",
+    "falla_number": 338,
+    "section": "6C",
+    "lat": 39.383109188222605,
+    "lng": -0.3333067767609018
+  },
+  {
+    "name": "Ripalda-Soguers",
+    "falla_number": 63,
+    "section": "6B",
+    "lat": 39.47841951139677,
+    "lng": -0.38066231341555273
+  },
+  {
+    "name": "Dalt-Sant Tomàs",
+    "falla_number": 37,
+    "section": "7B",
+    "lat": 39.478239766521654,
+    "lng": -0.38008367344273974
+  },
+  {
+    "name": "Quart Extramurs-Velázquez",
+    "falla_number": 96,
+    "section": "1A",
+    "lat": 39.4728086186131,
+    "lng": -0.4015348180518823,
+    "sketch_url": "https://www.cendradigital.com/wp-content/uploads/9-QUART-EXTRAMURS-VELA%CC%81ZQUEZ.jpg"
+  },
+  {
+    "name": "Molinell-Alboraia",
+    "falla_number": 120,
+    "section": "2A",
+    "lat": 39.485029347825304,
+    "lng": -0.3690045875007099
+  },
+  {
+    "name": "Alfons el Magnànim-Nau-Bonaire",
+    "falla_number": 148,
+    "section": "6B",
+    "lat": 39.47206282199894,
+    "lng": -0.37085888779983467
+  },
+  {
+    "name": "Camí d'Alba-Castell de Cullera",
+    "falla_number": 25,
+    "section": "7A",
+    "lat": 39.43534090287222,
+    "lng": -0.39163049524260024
+  },
+  {
+    "name": "Progrés-Teatre de la Marina",
+    "falla_number": 144,
+    "section": "3C",
+    "lat": 39.46747466862137,
+    "lng": -0.3301930417603211
+  },
+  {
+    "name": "Sagunt-Sant Guillem",
+    "falla_number": 75,
+    "section": "5C",
+    "lat": 39.484030015347805,
+    "lng": -0.37477015290572724
+  },
+  {
+    "name": "En Plom-Guillem de Castro",
+    "falla_number": 167,
+    "section": "7A",
+    "lat": 39.47529403862051,
+    "lng": -0.3840070640457518
+  },
+  {
+    "name": "Doctor Peset Aleixandre-En Guillem Ferrer",
+    "falla_number": 64,
+    "section": "6A",
+    "lat": 39.48875636136932,
+    "lng": -0.3867744977991217
+  },
+  {
+    "name": "Avinguda de l'Oest",
+    "falla_number": 10,
+    "section": "1A",
+    "lat": 39.471170302164104,
+    "lng": -0.37958649271837014,
+    "sketch_url": "https://www.cendradigital.com/wp-content/uploads/Boceto-Falla-Avenida-Oeste-2026.jpg"
+  },
+  {
+    "name": "Barraca-Columbretes",
+    "falla_number": 322,
+    "section": "7C",
+    "lat": 39.46894951640295,
+    "lng": -0.32912996251536797
+  },
+  {
+    "name": "Cadis-Els Centelles",
+    "falla_number": 27,
+    "section": "2B",
+    "lat": 39.45964542332738,
+    "lng": -0.372139180133711
+  },
+  {
+    "name": "Ceramista Ros-Josep Maria Mortes Lerma",
+    "falla_number": 284,
+    "section": "2A",
+    "lat": 39.463542797929584,
+    "lng": -0.40345926033496476
+  },
+  {
+    "name": "Cuba-Literat Azorín",
+    "falla_number": 28,
+    "section": "Especial",
+    "lat": 39.4598465668497,
+    "lng": -0.3755240079146528
+  },
+  {
+    "name": "Albereda-França",
+    "falla_number": 375,
+    "section": "3B",
+    "lat": 39.461834536166066,
+    "lng": -0.3550974321229795
+  },
+  {
+    "name": "Duc de Gaeta-La Pobla de Farnals",
+    "falla_number": 145,
+    "section": "1B",
+    "lat": 39.46873409945521,
+    "lng": -0.3487833644862564
+  },
+  {
+    "name": "Baró de San Petrillo-Leonor Jovani",
+    "falla_number": 125,
+    "section": "1B",
+    "lat": 39.48541765267115,
+    "lng": -0.36040966256810064
+  },
+  {
+    "name": "Plaza Doctor Collado",
+    "falla_number": 3,
+    "section": "1B",
+    "lat": 39.47434156217726,
+    "lng": -0.37781072398274007
+  },
+  {
+    "name": "Marqués de Lozoya-Poeta Josep Cervera i Grifol",
+    "falla_number": 354,
+    "section": "7B",
+    "lat": 39.45466548019984,
+    "lng": -0.35954650200303595
+  },
+  {
+    "name": "Borrull-Túria",
+    "falla_number": 7,
+    "section": "5C",
+    "lat": 39.47464317615337,
+    "lng": -0.3851694788567215
+  },
+  {
+    "name": "Castelló-Sogorb",
+    "falla_number": 39,
+    "section": "3B",
+    "lat": 39.46541706874882,
+    "lng": -0.37610776569143606
+  },
+  {
+    "name": "Bilbao-Maximilià Thous",
+    "falla_number": 107,
+    "section": "2B",
+    "lat": 39.487390757327496,
+    "lng": -0.3724451464993009
+  },
+  {
+    "name": "Sant Vicent-Marvà",
+    "falla_number": 154,
+    "section": "3A",
+    "lat": 39.463745466652206,
+    "lng": -0.3817761955401804
+  },
+  {
+    "name": "Veneçuela-Agustí Sales",
+    "falla_number": 199,
+    "section": "5A",
+    "lat": 39.45528771924896,
+    "lng": -0.3880532496615205
+  },
+  {
+    "name": "Isaac Peral-Méndez Núñez",
+    "falla_number": 304,
+    "section": "5A",
+    "lat": 39.459911855308036,
+    "lng": -0.3390484374350722
+  },
+  {
+    "name": "Mestre Bellver-Marià Ribera",
+    "falla_number": 240,
+    "section": "7A",
+    "lat": 39.46485423704973,
+    "lng": -0.3919070914269896
+  },
+  {
+    "name": "Reina-Pau-Sant Vicent",
+    "falla_number": 143,
+    "section": "2A",
+    "lat": 39.473880838304645,
+    "lng": -0.37550347733393286
+  },
+  {
+    "name": "Doctor Joan Josep Dómine-Port",
+    "falla_number": 226,
+    "section": "3C",
+    "lat": 39.461572181609505,
+    "lng": -0.33303043696653806
+  },
+  {
+    "name": "Alberic-Heroi Romeu",
+    "falla_number": 47,
+    "section": "4B",
+    "lat": 39.46868311625134,
+    "lng": -0.3895853267769159
+  },
+  {
+    "name": "Doctor Gil i Morte-Doctor Vila Barberà",
+    "falla_number": 310,
+    "section": "2B",
+    "lat": 39.46260763530272,
+    "lng": -0.3804479169630393
+  },
+{
+    "name": "Arquebisbe Olaechea-Sant Marcel·lí",
+    "falla_number": 100,
+    "section": "1A",
+    "lat": 39.443772005105956,
+    "lng": -0.3908599970392952,
+    "sketch_url": "https://www.cendradigital.com/wp-content/uploads/10-ARQUEBISBE-OLAECHEA-sANT-MARCEL%C2%B7LI%CC%81-566x800.jpg"
+  },
+  {
+    "name": "Tomasos-Carles Cervera",
+    "falla_number": 23,
+    "section": "2B",
+    "lat": 39.46161231113529,
+    "lng": -0.3727828734589119
+  },
+  {
+    "name": "Burjassot-Carretera de Paterna",
+    "falla_number": 119,
+    "section": "8C",
+    "lat": 39.487424515096926,
+    "lng": -0.3881400186958512
+  },
+  {
+    "name": "Josep Maria Haro-Poeta Mas i Ros",
+    "falla_number": 244,
+    "section": "7A",
+    "lat": 39.4677940297333,
+    "lng": -0.3390263852116358
+  },
+  {
+    "name": "Humanista Mariner-Manuel Simó",
+    "falla_number": 202,
+    "section": "6C",
+    "lat": 39.46070876276903,
+    "lng": -0.39290680116344257
+  },
+  {
+    "name": "Antiga Senda de Senent-Albereda",
+    "falla_number": 373,
+    "section": "8B",
+    "lat": 39.46528639211273,
+    "lng": -0.35863690912085333
+  },
+  {
+    "name": "Vilanova de Castelló-Horticultor Galán",
+    "falla_number": 134,
+    "section": "8A",
+    "lat": 39.48847376882573,
+    "lng": -0.379922034444319
+  },
+  {
+    "name": "Ramiro de Maeztu-Els Lleons",
+    "falla_number": 129,
+    "section": "1B",
+    "lat": 39.467398718101094,
+    "lng": -0.347866127628359
+  },
+  {
+    "name": "Mestre Aguilar-Maties Perelló",
+    "falla_number": 98,
+    "section": "6A",
+    "lat": 39.4606143491609,
+    "lng": -0.3697157721572177
+  },
+  {
+    "name": "Barri Beteró",
+    "falla_number": 181,
+    "section": "3B",
+    "lat": 39.47289848389419,
+    "lng": -0.3343299880767387
+  },
+  {
+    "name": "Cedre-Explorador Andrés",
+    "falla_number": 306,
+    "section": "8B",
+    "lat": 39.47216687324881,
+    "lng": -0.3469497028937954
+  },
+  {
+    "name": "Salamanca-Comte d'Altea",
+    "falla_number": 20,
+    "section": "5C",
+    "lat": 39.467294788582635,
+    "lng": -0.3649831083279868
+  },
+  {
+    "name": "Escalante-Marina",
+    "falla_number": 208,
+    "section": "7A",
+    "lat": 39.472090450497674,
+    "lng": -0.3299935350006616
+  },
+  {
+    "name": "Portugal-Fragata",
+    "falla_number": 139,
+    "section": "7C",
+    "lat": 39.487110385693036,
+    "lng": -0.38509602527484094
+  },
+  {
+    "name": "Olivereta-Cerdà i Rico",
+    "falla_number": 82,
+    "section": "4A",
+    "lat": 39.47410130908976,
+    "lng": -0.3962536392244285
+  },
+  {
+    "name": "Dr. García Brustenga - Vicente Barrera Cambra",
+    "falla_number": 394,
+    "section": "2A",
+    "lat": 39.481163355694854,
+    "lng": -0.3567287688482404
+  },
+  {
+    "name": "Màlaga-Doctor Montoro",
+    "falla_number": 243,
+    "section": "Fuera de Concurso",
+    "lat": 39.48497303911221,
+    "lng": -0.3797206784766971
+  },
+  {
+    "name": "Carrera de Malilla-Enginyer J. Benlloch",
+    "falla_number": 101,
+    "section": "2A",
+    "lat": 39.45410196666526,
+    "lng": -0.3782139038499347
+  },
+  {
+    "name": "Puebla de Valverde-II República Espanyola",
+    "falla_number": 367,
+    "section": "8A",
+    "lat": 39.46049617277406,
+    "lng": -0.4019744769216952
+  },
+  {
+    "name": "Poeta Asins-Alegret-Puçol",
+    "falla_number": 105,
+    "section": "5C",
+    "lat": 39.488340555754284,
+    "lng": -0.3590975049515964
+  },
+  {
+    "name": "Avgda.Burjassot-Serra d'Agullent",
+    "falla_number": 238,
+    "section": "8B",
+    "lat": 39.49747852164597,
+    "lng": -0.3997132445378726
+  },
+  {
+    "name": "Serrans-Plaza Els Furs",
+    "falla_number": 65,
+    "section": "2A",
+    "lat": 39.4789440633792,
+    "lng": -0.37606705183017275
+  },
+  {
+    "name": "Conchita Piquer-Monestir de Poblet",
+    "falla_number": 60,
+    "section": "8A",
+    "lat": 39.486352192277835,
+    "lng": -0.39118522395647115
+  },
+  {
+    "name": "Peu de La Creu-En Joan de Vila-Rasa",
+    "falla_number": 29,
+    "section": "3A",
+    "lat": 39.474073376412036,
+    "lng": -0.38375923190475575
+  },
+  {
+    "name": "Sant Josep de Pignatelli-Doctor Peset Aleixandre",
+    "falla_number": 69,
+    "section": "6B",
+    "lat": 39.49103809304657,
+    "lng": -0.3839244520644397
+  },
+  {
+    "name": "Conserva-Berenguer Mallol",
+    "falla_number": 68,
+    "section": "4B",
+    "lat": 39.46510862318837,
+    "lng": -0.34474775852020395
+  },
+  {
+    "name": "Cuenca Tramoyeres-La Guàrdia Civil",
+    "falla_number": 270,
+    "section": "5A",
+    "lat": 39.48293825647196,
+    "lng": -0.3607326806859068
+  },
+  {
+    "name": "Blas Gámez - Ángel Villena",
+    "falla_number": 392,
+    "section": "5C",
+    "lat": 39.45112261735788,
+    "lng": -0.36180576185667435
+  },
+  {
+    "name": "Poeta Altet-Benicarló",
+    "falla_number": 185,
+    "section": "7B",
+    "lat": 39.48625755500238,
+    "lng": -0.36475176248483837
+  },
+    {
+    "name": "Plaza Mercé",
+    "falla_number": 11,
+    "section": "1A",
+    "lat": 39.47271011716038,
+    "lng": -0.3778696561312386,
+    "sketch_url": "https://www.cendradigital.com/wp-content/uploads/3-PLAC%CC%A7A-DELA-MERCE-565x800.jpg"
+  },
+  {
+    "name": "Doctor Serrano-Carles Cervera-Clero",
+    "falla_number": 32,
+    "section": "3A",
+    "lat": 39.46248119611088,
+    "lng": -0.3727969189697803
+  },
+  {
+    "name": "Misser Rabassa-Poeta Maragall",
+    "falla_number": 52,
+    "section": "8A",
+    "lat": 39.45752291034988,
+    "lng": -0.3882830028388083
+  },
+  {
+    "name": "Marqués de Montortal-Berní i Català",
+    "falla_number": 43,
+    "section": "2A",
+    "lat": 39.49441494097684,
+    "lng": -0.3755461515680367
+  },
+  {
+    "name": "Lepant-Guillem de Castro",
+    "falla_number": 211,
+    "section": "5C",
+    "lat": 39.47379106025571,
+    "lng": -0.3840948994531567
+  },
+  {
+    "name": "Sants Just i Pastor-Serradora",
+    "falla_number": 349,
+    "section": "4C",
+    "lat": 39.46627553490898,
+    "lng": -0.33654779566390125
+  },
+  {
+    "name": "Mestre Gozalbo-Comte d'Altea",
+    "falla_number": 44,
+    "section": "1A",
+    "lat": 39.465421124639285,
+    "lng": -0.36941727808852726,
+    "sketch_url": "https://www.cendradigital.com/wp-content/uploads/5-MAESTRO-GOZALBO-CONDE-ALTEA-652x800.jpg"
+  },
+  {
+    "name": "Cadis-Dénia",
+    "falla_number": 250,
+    "section": "3C",
+    "lat": 39.463208352054146,
+    "lng": -0.3746039405177908
+  },
+  {
+    "name": "Plaza de l'Arbre",
+    "falla_number": 66,
+    "section": "5B",
+    "lat": 39.478546834368935,
+    "lng": -0.3787031910225065
+  },
+  {
+    "name": "Guillem Sorolla-Recaredo",
+    "falla_number": 196,
+    "section": "7B",
+    "lat": 39.4725340594487,
+    "lng": -0.3823005116139993
+  },
+  {
+    "name": "Menorca-Lluís Bolinches",
+    "falla_number": 386,
+    "section": "8A",
+    "lat": 39.45555426298999,
+    "lng": -0.34518335520122395
+  },
+  {
+    "name": "Cadis-Literat Azorín",
+    "falla_number": 24,
+    "section": "3C",
+    "lat": 39.4609293063527,
+    "lng": -0.37301236364374346
+  },
+  {
+    "name": "Ferran el Catòlic-Erudit Orellana",
+    "falla_number": 99,
+    "section": "7A",
+    "lat": 39.47161220474597,
+    "lng": -0.3862559241827864
+  },
+  {
+    "name": "Mossén Sorell-Corona",
+    "falla_number": 62,
+    "section": "2B",
+    "lat": 39.4782686510498,
+    "lng": -0.3834459693878556
+  }
+]

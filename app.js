@@ -560,71 +560,73 @@ function renderMarkers(fallas) {
   const bounds = L.latLngBounds([]);
 
   for (const f of fallas) {
-    const lat = Number(String(f.lat).replace(",", "."));
-    const lng = Number(String(f.lng).replace(",", "."));
-    if (!Number.isFinite(lat) || !Number.isFinite(lng)) continue;
+  const lat = Number(String(f.lat).replace(",", "."));
+  const lng = Number(String(f.lng).replace(",", "."));
+  if (!Number.isFinite(lat) || !Number.isFinite(lng)) continue;
 
-    const fallaNum = Number(f.falla_number);
-    if (!Number.isFinite(fallaNum)) continue;
+  const fallaNum = Number(f.falla_number);
+  if (!Number.isFinite(fallaNum)) continue;
 
-    const key = keyForFallaNumber(fallaNum);
-    const cur = state[key] || { visited: false, wish: false, rating_major: 0, rating_child: 0 };
+  const key = keyForFallaNumber(fallaNum);
+  const cur = state[key] || { visited: false, wish: false, rating_major: 0, rating_child: 0 };
 
-    const popupHtml = `
-      <div class="popup" style="font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;">
-        <div class="popuptitle"><strong>${fallaNum}</strong> | ${f.name ?? ""}</div>
- 
-        <div class="seccion">Sección: <strong>${f.section ?? ""}</strong></div>
+  const popupHtml = `
+    <div class="popup" style="font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;">
+      <div class="popuptitle"><strong>${fallaNum}</strong> | ${f.name ?? ""}</div>
+
+      <div class="seccion">Sección: <strong>${f.section ?? ""}</strong></div>
+      
+      <div class="seccion">Sector: <strong>${normalizeSector(f.sector)}</strong></div>
+
+      ${
+        f.premios && f.premios["2026"]
+          ? `<div class="seccion">🏆 Premio 2026: <strong>${f.premios["2026"]}</strong></div>`
+          : ``
+      }
+
+      <hr style="border:none;border-top:1px solid #eee;margin:8px 0;">
+
+      <div class="image-container">
+      ${
+        f.sketch_url
+          ? `<img src="${f.sketch_url}" alt="Boceto" />`
+          : ""
+      }
+      </div>
         
-        <div class="seccion">Sector: <strong>${normalizeSector(f.sector)}</strong></div>
+      <hr style="border:none;border-top:1px solid #eee;margin:8px 0;">
 
-        <hr style="border:none;border-top:1px solid #eee;margin:8px 0;">
-
-       
-       <div class="image-container">
-       ${
-          f.sketch_url
-            ? `<img src="${f.sketch_url}" alt="Boceto" />`
-            : ""
-        }
-        </div>
-          
-        <hr style="border:none;border-top:1px solid #eee;margin:8px 0;">
-       
-        <div class="checks-row">
+      <div class="checks-row">
         <label class="visited">
           <input type="checkbox" id="v_${key}" ${cur.visited ? "checked" : ""} />
           <span>Visitada</span>
         </label>
 
-       <label class="wishlist">
-       <input type="checkbox" id="w_${key}" ${cur.wish ? "checked" : ""} />
+        <label class="wishlist">
+          <input type="checkbox" id="w_${key}" ${cur.wish ? "checked" : ""} />
           <span>Quiero verla</span>
-       </label>
-       </div>
-
-            <div class="votes-row">
-            <label class="valorargrande" style="display:flex;justify-content:space-between;gap:10px;align-items:center;">
-            <span>Grande (0–10)</span>
-            <input type="number" id="m_${key}" min="0" max="10" step="1"
-              value="${cur.rating_major}" >
-             </label>
-
-             <label class="valorarinfantil" style="display:flex;justify-content:space-between;gap:10px;align-items:center;">
-            <span>Infantil (0–10)</span>
-            <input type="number" id="c_${key}" min="0" max="10" step="1"
-              value="${cur.rating_child}" >
-            </label>
-
-          
-        </div>
-   
-        <button class="savebutton" id="s_${key}">
-            Guardar
-          </button>
-       
+        </label>
       </div>
-    `;
+
+      <div class="votes-row">
+        <label class="valorargrande" style="display:flex;justify-content:space-between;gap:10px;align-items:center;">
+          <span>Grande (0–10)</span>
+          <input type="number" id="m_${key}" min="0" max="10" step="1"
+            value="${cur.rating_major}" >
+        </label>
+
+        <label class="valorarinfantil" style="display:flex;justify-content:space-between;gap:10px;align-items:center;">
+          <span>Infantil (0–10)</span>
+          <input type="number" id="c_${key}" min="0" max="10" step="1"
+            value="${cur.rating_child}" >
+        </label>
+      </div>
+
+      <button class="savebutton" id="s_${key}">
+        Guardar
+      </button>
+    </div>
+  `;
 
     const marker = L.marker(
       [lat, lng],

@@ -6,7 +6,10 @@
     "lat": 39.47348968762283,
     "lng": -0.3780614929139119,
     "sketch_url": "./data/images/001.jpg",
-    "sector": "La Seu – La Xerea – El Mercat"
+    "sector": "La Seu – La Xerea – El Mercat",
+    "premios": {
+      "2026": "11é premio Sección 1A"
+    }
   },
   {
     "name": "Plaza Mercat de Russafa",
@@ -15,7 +18,10 @@
     "lat": 39.46240126998927,
     "lng": -0.37157428483459604,
     "sketch_url": "./data/images/002.jpg",
-    "sector": "Ruzafa – A"
+    "sector": "Ruzafa – A",
+    "premios": {
+      "2026": "6é premio Sección 5C"
+    }
   },
   {
     "name": "Plaza Doctor Collado",
@@ -33,7 +39,10 @@
     "lat": 39.47753152338547,
     "lng": -0.3785618783122072,
     "sketch_url": "./data/images/004.jpg",
-    "sector": "El Carmen"
+    "sector": "El Carmen",
+    "premios": {
+      "2026": "4rt premio Sección 7B"
+    }
   },
   {
     "name": "Doctor Olóriz-Arquebisbe Fabián i Fuero",
@@ -51,7 +60,10 @@
     "lat": 39.472402895172,
     "lng": -0.3797308036438255,
     "sketch_url": "./data/images/006.jpg",
-    "sector": "La Seu – La Xerea – El Mercat"
+    "sector": "La Seu – La Xerea – El Mercat",
+    "premios": {
+      "2026": "14é premio Sección 1A"
+    }
   },
   {
     "name": "Borrull-Túria",
@@ -69,7 +81,10 @@
     "lat": 39.47526444476464,
     "lng": -0.38204603705016693,
     "sketch_url": "./data/images/008.jpg",
-    "sector": "El Pilar-Sant Francesc"
+    "sector": "El Pilar-Sant Francesc",
+    "premios": {
+      "2026": "5é premio Sección 8B"
+    }
   },
   {
     "name": "Na Jordana",
@@ -78,7 +93,10 @@
     "lat": 39.48100415750942,
     "lng": -0.3801110157807973,
     "sketch_url": "./data/images/009.jpg",
-    "sector": "El Carmen"
+    "sector": "El Carmen",
+    "premios": {
+      "2026": "3r premio Sección Especial"
+    }
   },
   {
     "name": "Avinguda de l'Oest",
@@ -87,7 +105,10 @@
     "lat": 39.471170302164104,
     "lng": -0.37958649271837014,
     "sketch_url": "./data/images/010.jpg",
-    "sector": "El Pilar-Sant Francesc"
+    "sector": "El Pilar-Sant Francesc",
+    "premios": {
+      "2026": "4rt premio Sección 1A"
+    }
   },
   {
     "name": "Plaza Mercé",
@@ -96,7 +117,10 @@
     "lat": 39.47271011716038,
     "lng": -0.3778696561312386,
     "sketch_url": "./data/images/011.jpg",
-    "sector": "La Seu – La Xerea – El Mercat"
+    "sector": "La Seu – La Xerea – El Mercat",
+    "premios": {
+      "2026": "6é premio Sección 1A"
+    }
   },
   {
     "name": "Convent de Jerusalem-Matemàtic Marzal",
@@ -105,7 +129,10 @@
     "lat": 39.46643844060057,
     "lng": -0.37951592968874953,
     "sketch_url": "./data/images/012.jpg",
-    "sector": "La Roqueta-Arrancapins"
+    "sector": "La Roqueta-Arrancapins",
+    "premios": {
+      "2026": "1r premio Sección Especial"
+    }
   },
   {
     "name": "Actor Mora-Constitució",
@@ -123,7 +150,10 @@
     "lat": 39.46583740509804,
     "lng": -0.36841578049487167,
     "sketch_url": "./data/images/014.jpg",
-    "sector": "Pla Del Remei-Gran Via"
+    "sector": "Pla Del Remei-Gran Via",
+    "premios": {
+      "2026": "8é premio Sección Especial"
+    }
   },
   {
     "name": "Bosseria-Tossal",
@@ -132,7 +162,10 @@
     "lat": 39.47614264033041,
     "lng": -0.3803071851986936,
     "sketch_url": "./data/images/015.jpg",
-    "sector": "El Pilar-Sant Francesc"
+    "sector": "El Pilar-Sant Francesc",
+    "premios": {
+      "2026": "14é premio Sección 3A"
+    }
   },
   {
     "name": "Marqués de Caro-Doctor Chiarri",
@@ -150,7 +183,10 @@
     "lat": 39.47592039770595,
     "lng": -0.3836670718731066,
     "sketch_url": "./data/images/017.jpg",
-    "sector": "El Pilar-Sant Francesc"
+    "sector": "El Pilar-Sant Francesc",
+    "premios": {
+      "2026": "13é premio Sección 1A"
+    }
   },
   {
     "name": "Plaza Sant Miquel-Vicent Iborra",
@@ -168,7 +204,10 @@
     "lat": 39.47503212429119,
     "lng": -0.37051485117174027,
     "sketch_url": "./data/images/019.jpg",
-    "sector": "La Seu – La Xerea – El Mercat"
+    "sector": "La Seu – La Xerea – El Mercat",
+    "premios": {
+      "2026": "1r premio Sección 4C"
+    }
   },
   {
     "name": "Salamanca-Comte d'Altea",
@@ -177,7 +216,10 @@
     "lat": 39.467294788582635,
     "lng": -0.3649831083279868,
     "sketch_url": "./data/images/020.jpg",
-    "sector": "Pla Del Remei-Gran Via"
+    "sector": "Pla Del Remei-Gran Via",
+    "premios": {
+      "2026": "1r premio Sección 4A"
+    }
   },
   {
     "name": "Borrull-Socors",
@@ -195,7 +237,10 @@
     "lat": 39.475304228431845,
     "lng": -0.36202199835634036,
     "sketch_url": "./data/images/022.jpg",
-    "sector": "Pla Del Reial-Benimaclet"
+    "sector": "Pla Del Reial-Benimaclet",
+    "premios": {
+      "2026": "7é premio Sección Especial"
+    }
   },
   {
     "name": "Tomasos-Carles Cervera",
@@ -204,7 +249,10 @@
     "lat": 39.46161231113529,
     "lng": -0.3727828734589119,
     "sector": "Ruzafa – A",
-    "sketch_url": "./data/images/023.jpg"
+    "sketch_url": "./data/images/023.jpg",
+    "premios": {
+      "2026": "7é premio Sección 3C"
+    }
   },
   {
     "name": "Cadis-Literat Azorín",
@@ -213,7 +261,10 @@
     "lat": 39.4609293063527,
     "lng": -0.37301236364374346,
     "sector": "Ruzafa – B",
-    "sketch_url": "./data/images/024.jpg"
+    "sketch_url": "./data/images/024.jpg",
+    "premios": {
+      "2026": "2n premio Sección 3A"
+    }
   },
   {
     "name": "Camí d'Alba-Castell de Cullera",
@@ -240,7 +291,10 @@
     "lat": 39.45964542332738,
     "lng": -0.372139180133711,
     "sector": "Ruzafa – B",
-    "sketch_url": "./data/images/027.jpg"
+    "sketch_url": "./data/images/027.jpg",
+    "premios": {
+      "2026": "7é premio Sección 3A"
+    }
   },
   {
     "name": "Cuba-Literat Azorín",
@@ -249,7 +303,10 @@
     "lat": 39.4598465668497,
     "lng": -0.3755240079146528,
     "sector": "Ruzafa – B",
-    "sketch_url": "./data/images/028.jpg"
+    "sketch_url": "./data/images/028.jpg",
+    "premios": {
+      "2026": "9é premio Sección Especial"
+    }
   },
   {
     "name": "Peu de La Creu-En Joan de Vila-Rasa",
@@ -276,7 +333,10 @@
     "lat": 39.46588765777108,
     "lng": -0.3539397451678329,
     "sector": "Camins Al Grau",
-    "sketch_url": "./data/images/031.jpg"
+    "sketch_url": "./data/images/031.jpg",
+    "premios": {
+      "2026": "7é premio Sección 1B"
+    }
   },
   {
     "name": "Doctor Serrano-Carles Cervera-Clero",
@@ -285,7 +345,10 @@
     "lat": 39.46248119611088,
     "lng": -0.3727969189697803,
     "sector": "Ruzafa – A",
-    "sketch_url": "./data/images/032.jpg"
+    "sketch_url": "./data/images/032.jpg",
+    "premios": {
+      "2026": "2n premio Sección 2B"
+    }
   },
   {
     "name": "Montortal-Torrefiel",
@@ -303,7 +366,10 @@
     "lat": 39.47135704324243,
     "lng": -0.3829647012506613,
     "sector": "El Pilar-Sant Francesc",
-    "sketch_url": "./data/images/034.jpg"
+    "sketch_url": "./data/images/034.jpg",
+    "premios": {
+      "2026": "4rt premio Sección Especial"
+    }
   },
   {
     "name": "Joan d'Aguiló-Gaspar Aguilar",
@@ -312,7 +378,10 @@
     "lat": 39.45662692644401,
     "lng": -0.3905502203747801,
     "sector": "Jesus",
-    "sketch_url": "./data/images/035.jpg"
+    "sketch_url": "./data/images/035.jpg",
+    "premios": {
+      "2026": "3r premio Sección 3C"
+    }
   },
   {
     "name": "Guillem de Castro-Triador",
@@ -357,7 +426,10 @@
     "lat": 39.47300373620803,
     "lng": -0.3787288315664735,
     "sector": "La Seu – La Xerea – El Mercat",
-    "sketch_url": "./data/images/040.jpg"
+    "sketch_url": "./data/images/040.jpg",
+    "premios": {
+      "2026": "2n premio Sección 5B"
+    }
   },
   {
     "name": "Cuba-Puerto Rico",
@@ -384,7 +456,10 @@
     "lat": 39.49441494097684,
     "lng": -0.3755461515680367,
     "sector": "Rascanya",
-    "sketch_url": "./data/images/043.jpg"
+    "sketch_url": "./data/images/043.jpg",
+    "premios": {
+      "2026": "9é premio Sección 2A"
+    }
   },
   {
     "name": "Mestre Gozalbo-Comte d'Altea",
@@ -393,7 +468,10 @@
     "lat": 39.465421124639285,
     "lng": -0.36941727808852726,
     "sector": "Pla Del Remei-Gran Via",
-    "sketch_url": "./data/images/044.jpg"
+    "sketch_url": "./data/images/044.jpg",
+    "premios": {
+      "2026": "2n premio Sección 1A"
+    }
   },
   {
     "name": "Sagunt-Sant Antoni-Pare Urbano",
@@ -420,7 +498,10 @@
     "lat": 39.46868311625134,
     "lng": -0.3895853267769159,
     "sector": "La Roqueta-Arrancapins",
-    "sketch_url": "./data/images/047.jpg"
+    "sketch_url": "./data/images/047.jpg",
+    "premios": {
+      "2026": "4rt premio Sección 4B"
+    }
   },
   {
     "name": "Barraca-Espadà",
@@ -429,7 +510,10 @@
     "lat": 39.47192818142817,
     "lng": -0.3282611407518631,
     "sector": "Malvarrosa-Cabanyal-Betero",
-    "sketch_url": "./data/images/049.jpg"
+    "sketch_url": "./data/images/049.jpg",
+    "premios": {
+      "2026": "4rt premio Sección 3B"
+    }
   },
   {
     "name": "Corretgeria-Bany dels Pavesos",
@@ -438,7 +522,10 @@
     "lat": 39.475389399096265,
     "lng": -0.37670245719812756,
     "sector": "La Seu – La Xerea – El Mercat",
-    "sketch_url": "./data/images/050.jpg"
+    "sketch_url": "./data/images/050.jpg",
+    "premios": {
+      "2026": "4rt premio Sección 5C"
+    }
   },
   {
     "name": "Carretera d'Escrivà-Coop. de Sant Ferran",
@@ -447,7 +534,10 @@
     "lat": 39.45792290397415,
     "lng": -0.3847567600086444,
     "sector": "Jesus",
-    "sketch_url": "./data/images/051.jpg"
+    "sketch_url": "./data/images/051.jpg",
+    "premios": {
+      "2026": "5é premio Sección 6C"
+    }
   },
   {
     "name": "Misser Rabassa-Poeta Maragall",
@@ -474,7 +564,10 @@
     "lat": 39.465244970923855,
     "lng": -0.3664877643152533,
     "sector": "Pla Del Remei-Gran Via",
-    "sketch_url": "./data/images/054.jpg"
+    "sketch_url": "./data/images/054.jpg",
+    "premios": {
+      "2026": "13é premio Sección 2B"
+    }
   },
   {
     "name": "Sapadors-Vicent Lleó",
@@ -483,7 +576,10 @@
     "lat": 39.458852118489084,
     "lng": -0.36898602983539497,
     "sector": "Quatre Carreres",
-    "sketch_url": "./data/images/055.jpg"
+    "sketch_url": "./data/images/055.jpg",
+    "premios": {
+      "2026": "8é premio Sección 2A"
+    }
   },
   {
     "name": "Azcàrraga-Ferran el Catòlic",
@@ -492,7 +588,10 @@
     "lat": 39.474570466711036,
     "lng": -0.3883870931489558,
     "sector": "Botanic-La Petxina",
-    "sketch_url": "./data/images/056.jpg"
+    "sketch_url": "./data/images/056.jpg",
+    "premios": {
+      "2026": "8é premio Sección 3B"
+    }
   },
   {
     "name": "Pelai-Matemàtic Marzal",
@@ -501,7 +600,10 @@
     "lat": 39.46626507696817,
     "lng": -0.37883658497576084,
     "sector": "La Roqueta-Arrancapins",
-    "sketch_url": "./data/images/057.jpg"
+    "sketch_url": "./data/images/057.jpg",
+    "premios": {
+      "2026": "11é premio Sección 4B"
+    }
   },
   {
     "name": "Sevilla-Dénia",
@@ -510,7 +612,10 @@
     "lat": 39.46333807919075,
     "lng": -0.37378872671948105,
     "sector": "Ruzafa – A",
-    "sketch_url": "./data/images/058.jpg"
+    "sketch_url": "./data/images/058.jpg",
+    "premios": {
+      "2026": "1r premio Sección 6C"
+    }
   },
   {
     "name": "Aras de Alpuente-Castell de Pop",
@@ -519,7 +624,10 @@
     "lat": 39.44814866367574,
     "lng": -0.3333018650210224,
     "sector": "Canyamelar-Grau-Nazaret",
-    "sketch_url": "./data/images/059.jpg"
+    "sketch_url": "./data/images/059.jpg",
+    "premios": {
+      "2026": "8é premio Sección 4A"
+    }
   },
   {
     "name": "Conchita Piquer-Monestir de Poblet",
@@ -528,7 +636,10 @@
     "lat": 39.486352192277835,
     "lng": -0.39118522395647115,
     "sector": "Campanar",
-    "sketch_url": "./data/images/060.jpg"
+    "sketch_url": "./data/images/060.jpg",
+    "premios": {
+      "2026": "3r premio Sección 7A"
+    }
   },
   {
     "name": "Marqués de Montortal-Josep Esteve",
@@ -546,7 +657,10 @@
     "lat": 39.4782686510498,
     "lng": -0.3834459693878556,
     "sector": "El Carmen",
-    "sketch_url": "./data/images/062.jpg"
+    "sketch_url": "./data/images/062.jpg",
+    "premios": {
+      "2026": "7é premio Sección 3B"
+    }
   },
   {
     "name": "Ripalda-Soguers",
@@ -564,7 +678,10 @@
     "lat": 39.48875636136932,
     "lng": -0.3867744977991217,
     "sector": "Zaidia",
-    "sketch_url": "./data/images/064.jpg"
+    "sketch_url": "./data/images/064.jpg",
+    "premios": {
+      "2026": "8é premio Sección 6C"
+    }
   },
   {
     "name": "Serrans-Plaza Els Furs",
@@ -573,7 +690,10 @@
     "lat": 39.4789440633792,
     "lng": -0.37606705183017275,
     "sector": "El Carmen",
-    "sketch_url": "./data/images/065.jpg"
+    "sketch_url": "./data/images/065.jpg",
+    "premios": {
+      "2026": "13é premio Sección 2A"
+    }
   },
   {
     "name": "Plaza de l'Arbre",
@@ -591,7 +711,10 @@
     "lat": 39.47099581853792,
     "lng": -0.40145133554004403,
     "sector": "Olivereta",
-    "sketch_url": "./data/images/067.jpg"
+    "sketch_url": "./data/images/067.jpg",
+    "premios": {
+      "2026": "2n premio Sección 3C"
+    }
   },
   {
     "name": "Conserva-Berenguer Mallol",
@@ -600,7 +723,10 @@
     "lat": 39.46510862318837,
     "lng": -0.34474775852020395,
     "sector": "Camins Al Grau",
-    "sketch_url": "./data/images/068.jpg"
+    "sketch_url": "./data/images/068.jpg",
+    "premios": {
+      "2026": "6é premio Sección 4A"
+    }
   },
   {
     "name": "Sant Josep de Pignatelli-Doctor Peset Aleixandre",
@@ -609,7 +735,10 @@
     "lat": 39.49103809304657,
     "lng": -0.3839244520644397,
     "sector": "Benicalap",
-    "sketch_url": "./data/images/069.jpg"
+    "sketch_url": "./data/images/069.jpg",
+    "premios": {
+      "2026": "7é premio Sección 6B"
+    }
   },
   {
     "name": "Vidal de Canyelles-Sánchez Coello",
@@ -627,7 +756,10 @@
     "lat": 39.48216349442592,
     "lng": -0.3703718162476261,
     "sector": "Zaidia",
-    "sketch_url": "./data/images/071.jpg"
+    "sketch_url": "./data/images/071.jpg",
+    "premios": {
+      "2026": "2n premio Sección 6B"
+    }
   },
   {
     "name": "Joaquim Navarro-Carrícola",
@@ -636,7 +768,10 @@
     "lat": 39.45285577758091,
     "lng": -0.38692476532345454,
     "sector": "La Creu Coberta",
-    "sketch_url": "./data/images/072.jpg"
+    "sketch_url": "./data/images/072.jpg",
+    "premios": {
+      "2026": "1r premio Sección 7B"
+    }
   },
   {
     "name": "Plaza Santa Creu",
@@ -645,7 +780,10 @@
     "lat": 39.47870902830696,
     "lng": -0.37796089639106206,
     "sector": "El Carmen",
-    "sketch_url": "./data/images/073.jpg"
+    "sketch_url": "./data/images/073.jpg",
+    "premios": {
+      "2026": "7é premio Sección 7B"
+    }
   },
   {
     "name": "Alqueries de Bellver-Garbí",
@@ -663,7 +801,10 @@
     "lat": 39.484030015347805,
     "lng": -0.37477015290572724,
     "sector": "Zaidia",
-    "sketch_url": "./data/images/075.jpg"
+    "sketch_url": "./data/images/075.jpg",
+    "premios": {
+      "2026": "7é premio Sección 5B"
+    }
   },
   {
     "name": "Josep Benlliure-Vicent Guillot",
@@ -672,7 +813,10 @@
     "lat": 39.4742678497239,
     "lng": -0.32875701687514536,
     "sector": "Malvarrosa-Cabanyal-Betero",
-    "sketch_url": "./data/images/076.jpg"
+    "sketch_url": "./data/images/076.jpg",
+    "premios": {
+      "2026": "5é premio Sección 7C"
+    }
   },
   {
     "name": "Barri de Sant Josep",
@@ -681,7 +825,10 @@
     "lat": 39.476113155733195,
     "lng": -0.34863203864841114,
     "sector": "Algiros",
-    "sketch_url": "./data/images/077.jpg"
+    "sketch_url": "./data/images/077.jpg",
+    "premios": {
+      "2026": "12é premio Sección 2B"
+    }
   },
   {
     "name": "Bisbe Amigó-Conca",
@@ -690,7 +837,10 @@
     "lat": 39.46654741432958,
     "lng": -0.3864793234797861,
     "sector": "La Roqueta-Arrancapins",
-    "sketch_url": "./data/images/078.jpg"
+    "sketch_url": "./data/images/078.jpg",
+    "premios": {
+      "2026": "11é premio Sección 1B"
+    }
   },
   {
     "name": "Ferran el Catòlic-Àngel Guimerà",
@@ -699,7 +849,10 @@
     "lat": 39.46902068609314,
     "lng": -0.38614064985348234,
     "sector": "La Roqueta-Arrancapins",
-    "sketch_url": "./data/images/079.jpg"
+    "sketch_url": "./data/images/079.jpg",
+    "premios": {
+      "2026": "5é premio Sección 1B"
+    }
   },
   {
     "name": "Ripalda-Beneficència-Sant Ramon",
@@ -708,7 +861,10 @@
     "lat": 39.47866804150547,
     "lng": -0.3822463177606689,
     "sector": "El Carmen",
-    "sketch_url": "./data/images/080.jpg"
+    "sketch_url": "./data/images/080.jpg",
+    "premios": {
+      "2026": "8é premio Sección 5C"
+    }
   },
   {
     "name": "Goya-El Brasil",
@@ -717,7 +873,10 @@
     "lat": 39.4719160994899,
     "lng": -0.3987727019103844,
     "sector": "Olivereta",
-    "sketch_url": "./data/images/081.jpg"
+    "sketch_url": "./data/images/081.jpg",
+    "premios": {
+      "2026": "4rt premio Sección 4C"
+    }
   },
   {
     "name": "Olivereta-Cerdà i Rico",
@@ -726,7 +885,10 @@
     "lat": 39.47410130908976,
     "lng": -0.3962536392244285,
     "sector": "Olivereta",
-    "sketch_url": "./data/images/082.jpg"
+    "sketch_url": "./data/images/082.jpg",
+    "premios": {
+      "2026": "1r premio Sección 4B"
+    }
   },
   {
     "name": "Ciscar-Borriana",
@@ -735,7 +897,10 @@
     "lat": 39.46569776037665,
     "lng": -0.3653829545001309,
     "sector": "Pla Del Remei-Gran Via",
-    "sketch_url": "./data/images/083.jpg"
+    "sketch_url": "./data/images/083.jpg",
+    "premios": {
+      "2026": "3r premio Sección 1A"
+    }
   },
   {
     "name": "Gravador Esteve-Ciril Amorós",
@@ -744,7 +909,10 @@
     "lat": 39.46944772376713,
     "lng": -0.366450419860437,
     "sector": "Pla Del Remei-Gran Via",
-    "sketch_url": "./data/images/084.jpg"
+    "sketch_url": "./data/images/084.jpg",
+    "premios": {
+      "2026": "5é premio Sección 1A"
+    }
   },
   {
     "name": "Cuba-Dénia",
@@ -753,7 +921,10 @@
     "lat": 39.46214391685996,
     "lng": -0.37719204417357244,
     "sector": "Ruzafa – B",
-    "sketch_url": "./data/images/085.jpg"
+    "sketch_url": "./data/images/085.jpg",
+    "premios": {
+      "2026": "3r premio Sección 4B"
+    }
   },
   {
     "name": "Blocs Platja",
@@ -762,7 +933,10 @@
     "lat": 39.46581100145378,
     "lng": -0.3266735260947662,
     "sector": "Canyamelar-Grau-Nazaret",
-    "sketch_url": "./data/images/086.jpg"
+    "sketch_url": "./data/images/086.jpg",
+    "premios": {
+      "2026": "7é premio Sección 2B"
+    }
   },
   {
     "name": "Arxiduc Carles-Xiva",
@@ -771,7 +945,10 @@
     "lat": 39.4661152568831,
     "lng": -0.3947707565357127,
     "sector": "Patraix",
-    "sketch_url": "./data/images/087.jpg"
+    "sketch_url": "./data/images/087.jpg",
+    "premios": {
+      "2026": "4rt premio Sección 3A"
+    }
   },
   {
     "name": "Bailén-Xàtiva",
@@ -789,7 +966,10 @@
     "lat": 39.470110088863635,
     "lng": -0.379439155329058,
     "sector": "El Pilar-Sant Francesc",
-    "sketch_url": "./data/images/089.jpg"
+    "sketch_url": "./data/images/089.jpg",
+    "premios": {
+      "2026": "8é premio Sección 1A"
+    }
   },
   {
     "name": "Nador-Miraculosa",
@@ -798,7 +978,10 @@
     "lat": 39.483913498954564,
     "lng": -0.3735688802301487,
     "sector": "Zaidia",
-    "sketch_url": "./data/images/090.jpg"
+    "sketch_url": "./data/images/090.jpg",
+    "premios": {
+      "2026": "3r premio Sección 4A"
+    }
   },
   {
     "name": "Pintor Domingo-Guillem de Castro",
@@ -807,7 +990,10 @@
     "lat": 39.47438553541575,
     "lng": -0.37951578966779664,
     "sector": "El Pilar-Sant Francesc",
-    "sketch_url": "./data/images/091.jpg"
+    "sketch_url": "./data/images/091.jpg",
+    "premios": {
+      "2026": "1r premio Sección 8B"
+    }
   },
   {
     "name": "En Sendra-Plaza Coll",
@@ -861,7 +1047,10 @@
     "lat": 39.47271514928657,
     "lng": -0.35007997461738655,
     "sector": "Algiros",
-    "sketch_url": "./data/images/097.jpg"
+    "sketch_url": "./data/images/097.jpg",
+    "premios": {
+      "2026": "4rt premio Sección 6C"
+    }
   },
   {
     "name": "Mestre Aguilar-Maties Perelló",
@@ -870,7 +1059,10 @@
     "lat": 39.4606143491609,
     "lng": -0.3697157721572177,
     "sector": "Ruzafa – A",
-    "sketch_url": "./data/images/098.jpg"
+    "sketch_url": "./data/images/098.jpg",
+    "premios": {
+      "2026": "2n premio Sección 6A"
+    }
   },
   {
     "name": "Ferran el Catòlic-Erudit Orellana",
@@ -888,7 +1080,10 @@
     "lat": 39.443772005105956,
     "lng": -0.3908599970392952,
     "sector": "La Creu Coberta",
-    "sketch_url": "./data/images/100.jpg"
+    "sketch_url": "./data/images/100.jpg",
+    "premios": {
+      "2026": "7é premio Sección 1A"
+    }
   },
   {
     "name": "Carrera de Malilla-Enginyer J. Benlloch",
@@ -906,7 +1101,10 @@
     "lat": 39.466737906140914,
     "lng": -0.37292688026949616,
     "sector": "Pla Del Remei-Gran Via",
-    "sketch_url": "./data/images/102.jpg"
+    "sketch_url": "./data/images/102.jpg",
+    "premios": {
+      "2026": "5é premio Sección 2A"
+    }
   },
   {
     "name": "Plaza Rojas Clemente",
@@ -924,7 +1122,10 @@
     "lat": 39.488340555754284,
     "lng": -0.3590975049515964,
     "sector": "Pla Del Reial-Benimaclet",
-    "sketch_url": "./data/images/105.jpg"
+    "sketch_url": "./data/images/105.jpg",
+    "premios": {
+      "2026": "9é premio Sección 5B"
+    }
   },
   {
     "name": "Primat Reig-Sant Vicent de Paül",
@@ -942,7 +1143,10 @@
     "lat": 39.487390757327496,
     "lng": -0.3724451464993009,
     "sector": "Zaidia",
-    "sketch_url": "./data/images/107.jpg"
+    "sketch_url": "./data/images/107.jpg",
+    "premios": {
+      "2026": "9é premio Sección 2B"
+    }
   },
   {
     "name": "Pintor Stolz-Burgos",
@@ -969,7 +1173,10 @@
     "lat": 39.473984997897055,
     "lng": -0.37680881968192065,
     "sector": "La Seu – La Xerea – El Mercat",
-    "sketch_url": "./data/images/110.jpg"
+    "sketch_url": "./data/images/110.jpg",
+    "premios": {
+      "2026": "13é premio Sección 3B"
+    }
   },
   {
     "name": "Burjassot-Pare Carbonell",
@@ -978,7 +1185,10 @@
     "lat": 39.493548539741205,
     "lng": -0.3927055613298509,
     "sector": "Benicalap",
-    "sketch_url": "./data/images/111.jpg"
+    "sketch_url": "./data/images/111.jpg",
+    "premios": {
+      "2026": "8é premio Sección 2B"
+    }
   },
   {
     "name": "Malva-Rosa-Antoni Ponz-Cavite",
@@ -987,7 +1197,10 @@
     "lat": 39.48233615987615,
     "lng": -0.32814144785635796,
     "sector": "Malvarrosa-Cabanyal-Betero",
-    "sketch_url": "./data/images/112.jpg"
+    "sketch_url": "./data/images/112.jpg",
+    "premios": {
+      "2026": "9é premio Sección 1B"
+    }
   },
   {
     "name": "República Argentina-Doctor Pallarés Iranzo",
@@ -1041,7 +1254,10 @@
     "lat": 39.49099752242869,
     "lng": -0.38827057385365543,
     "sector": "Benicalap",
-    "sketch_url": "./data/images/118.jpg"
+    "sketch_url": "./data/images/118.jpg",
+    "premios": {
+      "2026": "1r premio Sección 5B"
+    }
   },
   {
     "name": "Burjassot-Carretera de Paterna",
@@ -1059,7 +1275,10 @@
     "lat": 39.485029347825304,
     "lng": -0.3690045875007099,
     "sector": "Pla Del Reial-Benimaclet",
-    "sketch_url": "./data/images/120.jpg"
+    "sketch_url": "./data/images/120.jpg",
+    "premios": {
+      "2026": "12é premio Sección 2A"
+    }
   },
   {
     "name": "Plaza Lluís Cano",
@@ -1068,7 +1287,10 @@
     "lat": 39.50278906654451,
     "lng": -0.41975454574939064,
     "sector": "Benimamet-Burjasot-Beniferri",
-    "sketch_url": "./data/images/121.jpg"
+    "sketch_url": "./data/images/121.jpg",
+    "premios": {
+      "2026": "10é premio Sección 4A"
+    }
   },
   {
     "name": "Cervantes-Pare Jofré",
@@ -1086,7 +1308,10 @@
     "lat": 39.46995896900919,
     "lng": -0.33936808191609164,
     "sector": "Algiros",
-    "sketch_url": "./data/images/123.jpg"
+    "sketch_url": "./data/images/123.jpg",
+    "premios": {
+      "2026": "8é premio Sección 3A"
+    }
   },
   {
     "name": "Lluís Oliag-Mariola-Granada",
@@ -1104,7 +1329,10 @@
     "lat": 39.48541765267115,
     "lng": -0.36040966256810064,
     "sector": "Pla Del Reial-Benimaclet",
-    "sketch_url": "./data/images/125.jpg"
+    "sketch_url": "./data/images/125.jpg",
+    "premios": {
+      "2026": "8é premio Sección 1B"
+    }
   },
   {
     "name": "Pintor Salvador Abril-Pere III El Gran",
@@ -1131,7 +1359,10 @@
     "lat": 39.46457381688759,
     "lng": -0.34200305145928683,
     "sector": "Camins Al Grau",
-    "sketch_url": "./data/images/128.jpg"
+    "sketch_url": "./data/images/128.jpg",
+    "premios": {
+      "2026": "3r premio Sección 6C"
+    }
   },
   {
     "name": "Ramiro de Maeztu-Els Lleons",
@@ -1149,7 +1380,10 @@
     "lat": 39.46300851929425,
     "lng": -0.39243996563591305,
     "sector": "Patraix",
-    "sketch_url": "./data/images/130.jpg"
+    "sketch_url": "./data/images/130.jpg",
+    "premios": {
+      "2026": "8é premio Sección 5B"
+    }
   },
   {
     "name": "Iecla-Cardenal Benlloch",
@@ -1158,7 +1392,10 @@
     "lat": 39.47166911653631,
     "lng": -0.35396008611612534,
     "sector": "Algiros",
-    "sketch_url": "./data/images/131.jpg"
+    "sketch_url": "./data/images/131.jpg",
+    "premios": {
+      "2026": "2n premio Sección 7A"
+    }
   },
   {
     "name": "Glòria-Felicitat-El Tremolar",
@@ -1167,7 +1404,10 @@
     "lat": 39.42443686966368,
     "lng": -0.36573952392145254,
     "sector": "Poblats Al Sud",
-    "sketch_url": "./data/images/132.jpg"
+    "sketch_url": "./data/images/132.jpg",
+    "premios": {
+      "2026": "2n premio Sección 4A"
+    }
   },
   {
     "name": "Reina-Vicent Guillot",
@@ -1185,7 +1425,10 @@
     "lat": 39.48847376882573,
     "lng": -0.379922034444319,
     "sector": "Zaidia",
-    "sketch_url": "./data/images/134.jpg"
+    "sketch_url": "./data/images/134.jpg",
+    "premios": {
+      "2026": "6é premio Sección 7A"
+    }
   },
   {
     "name": "Avinguda de Burjassot-Joaquim Ballester",
@@ -1194,7 +1437,10 @@
     "lat": 39.48499664981252,
     "lng": -0.38532362703324047,
     "sector": "Campanar",
-    "sketch_url": "./data/images/135.jpg"
+    "sketch_url": "./data/images/135.jpg",
+    "premios": {
+      "2026": "5é premio Sección 4A"
+    }
   },
   {
     "name": "Quart-Túria",
@@ -1203,7 +1449,10 @@
     "lat": 39.47559866222997,
     "lng": -0.3852955868424629,
     "sector": "Botanic-La Petxina",
-    "sketch_url": "./data/images/137.jpg"
+    "sketch_url": "./data/images/137.jpg",
+    "premios": {
+      "2026": "4rt premio Sección 8A"
+    }
   },
   {
     "name": "Pare Viñas-Agustín Lara",
@@ -1212,7 +1461,10 @@
     "lat": 39.49344736202629,
     "lng": -0.3710988159255096,
     "sector": "Rascanya",
-    "sketch_url": "./data/images/138.jpg"
+    "sketch_url": "./data/images/138.jpg",
+    "premios": {
+      "2026": "9é premio Sección 6A"
+    }
   },
   {
     "name": "Portugal-Fragata",
@@ -1230,7 +1482,10 @@
     "lat": 39.474632406927945,
     "lng": -0.39212598459609016,
     "sector": "Botanic-La Petxina",
-    "sketch_url": "./data/images/140.jpg"
+    "sketch_url": "./data/images/140.jpg",
+    "premios": {
+      "2026": "6é premio Sección 2A"
+    }
   },
   {
     "name": "Fra J. Rodríguez-Pintor Cortina",
@@ -1239,7 +1494,10 @@
     "lat": 39.45439573111787,
     "lng": -0.3916678806495576,
     "sector": "La Creu Coberta",
-    "sketch_url": "./data/images/141.jpg"
+    "sketch_url": "./data/images/141.jpg",
+    "premios": {
+      "2026": "10é premio Sección 3B"
+    }
   },
   {
     "name": "Cuba-Buenos Aires",
@@ -1248,7 +1506,10 @@
     "lat": 39.46159199683606,
     "lng": -0.37676044759049965,
     "sector": "Ruzafa – B",
-    "sketch_url": "./data/images/142.jpg"
+    "sketch_url": "./data/images/142.jpg",
+    "premios": {
+      "2026": "9é premio Sección 3B"
+    }
   },
   {
     "name": "Reina-Pau-Sant Vicent",
@@ -1257,7 +1518,10 @@
     "lat": 39.473880838304645,
     "lng": -0.37550347733393286,
     "sector": "La Seu – La Xerea – El Mercat",
-    "sketch_url": "./data/images/143.jpg"
+    "sketch_url": "./data/images/143.jpg",
+    "premios": {
+      "2026": "4rt premio Sección 2A"
+    }
   },
   {
     "name": "Progrés-Teatre de la Marina",
@@ -1266,7 +1530,10 @@
     "lat": 39.46747466862137,
     "lng": -0.3301930417603211,
     "sector": "Canyamelar-Grau-Nazaret",
-    "sketch_url": "./data/images/144.jpg"
+    "sketch_url": "./data/images/144.jpg",
+    "premios": {
+      "2026": "2n premio Sección 3C"
+    }
   },
   {
     "name": "Duc de Gaeta-La Pobla de Farnals",
@@ -1275,7 +1542,10 @@
     "lat": 39.46873409945521,
     "lng": -0.3487833644862564,
     "sector": "Camins Al Grau",
-    "sketch_url": "./data/images/145.jpg"
+    "sketch_url": "./data/images/145.jpg",
+    "premios": {
+      "2026": "2n premio Sección 1B"
+    }
   },
   {
     "name": "Tres Forques-Conca-Pérez Galdós",
@@ -1284,7 +1554,10 @@
     "lat": 39.46392550964067,
     "lng": -0.3883555203598957,
     "sector": "Jesus",
-    "sketch_url": "./data/images/146.jpg"
+    "sketch_url": "./data/images/146.jpg",
+    "premios": {
+      "2026": "8é premio Sección 3C"
+    }
   },
   {
     "name": "Plaza Mare de Déu de Lepant",
@@ -1293,7 +1566,10 @@
     "lat": 39.428005165021204,
     "lng": -0.36117128122587977,
     "sector": "Poblats Al Sud",
-    "sketch_url": "./data/images/147.jpg"
+    "sketch_url": "./data/images/147.jpg",
+    "premios": {
+      "2026": "3r premio Sección 3C"
+    }
   },
   {
     "name": "Alfons el Magnànim-Nau-Bonaire",
@@ -1311,7 +1587,10 @@
     "lat": 39.46893079659118,
     "lng": -0.3677151406950975,
     "sector": "Pla Del Remei-Gran Via",
-    "sketch_url": "./data/images/149.jpg"
+    "sketch_url": "./data/images/149.jpg",
+    "premios": {
+      "2026": "9é premio Sección 1A"
+    }
   },
   {
     "name": "Doctor Manuel Candela-Avinguda del Port",
@@ -1338,7 +1617,10 @@
     "lat": 39.45504189363206,
     "lng": -0.38381322394965184,
     "sector": "La Creu Coberta",
-    "sketch_url": "./data/images/152.jpg"
+    "sketch_url": "./data/images/152.jpg",
+    "premios": {
+      "2026": "11é premio Sección 3C"
+    }
   },
   {
     "name": "Sant Pere-Mare de Déu de la Vallivana",
@@ -1347,7 +1629,10 @@
     "lat": 39.472035748204654,
     "lng": -0.3310569137319714,
     "sector": "Malvarrosa-Cabanyal-Betero",
-    "sketch_url": "./data/images/153.jpg"
+    "sketch_url": "./data/images/153.jpg",
+    "premios": {
+      "2026": "5é premio Sección 5C"
+    }
   },
   {
     "name": "Sant Vicent-Marvà",
@@ -1356,7 +1641,10 @@
     "lat": 39.463745466652206,
     "lng": -0.3817761955401804,
     "sector": "La Roqueta-Arrancapins",
-    "sketch_url": "./data/images/154.jpg"
+    "sketch_url": "./data/images/154.jpg",
+    "premios": {
+      "2026": "6é premio Sección 3A"
+    }
   },
   {
     "name": "Barraca-Església del Rosari",
@@ -1365,7 +1653,10 @@
     "lat": 39.465794889357774,
     "lng": -0.32963461177405284,
     "sector": "Canyamelar-Grau-Nazaret",
-    "sketch_url": "./data/images/155.jpg"
+    "sketch_url": "./data/images/155.jpg",
+    "premios": {
+      "2026": "5é premio Sección 4C"
+    }
   },
   {
     "name": "General Pando-Serrano Flores",
@@ -1374,7 +1665,10 @@
     "lat": 39.47319951840402,
     "lng": -0.3602447548118345,
     "sector": "Pla Del Reial-Benimaclet",
-    "sketch_url": "./data/images/156.jpg"
+    "sketch_url": "./data/images/156.jpg",
+    "premios": {
+      "2026": "5é premio Sección 4B"
+    }
   },
   {
     "name": "Sant Joan Bosco-Duc de Mandas",
@@ -1410,7 +1704,10 @@
     "lat": 39.47387374928242,
     "lng": -0.38914092827422275,
     "sector": "Botanic-La Petxina",
-    "sketch_url": "./data/images/160.jpg"
+    "sketch_url": "./data/images/160.jpg",
+    "premios": {
+      "2026": "12é premio Sección 4A"
+    }
   },
   {
     "name": "Regne de València-Ciscar",
@@ -1419,7 +1716,10 @@
     "lat": 39.46321283556124,
     "lng": -0.36360127883959475,
     "sector": "Pla Del Remei-Gran Via",
-    "sketch_url": "./data/images/161.jpg"
+    "sketch_url": "./data/images/161.jpg",
+    "premios": {
+      "2026": "1r premio Sección 3B"
+    }
   },
   {
     "name": "Grups Mare de Déu del Carme",
@@ -1446,7 +1746,10 @@
     "lat": 39.47044236098282,
     "lng": -0.39092072921271404,
     "sector": "Botanic-La Petxina",
-    "sketch_url": "./data/images/164.jpg"
+    "sketch_url": "./data/images/164.jpg",
+    "premios": {
+      "2026": "4rt premio Sección 5A"
+    }
   },
   {
     "name": "Pizarro-Ciril Amorós",
@@ -1464,7 +1767,10 @@
     "lat": 39.468065842002645,
     "lng": -0.3999838836784349,
     "sector": "Olivereta",
-    "sketch_url": "./data/images/166.jpg"
+    "sketch_url": "./data/images/166.jpg",
+    "premios": {
+      "2026": "6é premio Sección 6A"
+    }
   },
   {
     "name": "En Plom-Guillem de Castro",
@@ -1500,7 +1806,10 @@
     "lat": 39.46444424722499,
     "lng": -0.37172878277946253,
     "sector": "Ruzafa – A",
-    "sketch_url": "./data/images/170.jpg"
+    "sketch_url": "./data/images/170.jpg",
+    "premios": {
+      "2026": "7é premio Sección 2A"
+    }
   },
   {
     "name": "Ramon de Rocafull-Comte d'Alaquàs",
@@ -1527,7 +1836,10 @@
     "lat": 39.4658897804743,
     "lng": -0.3841296491280362,
     "sector": "La Roqueta-Arrancapins",
-    "sketch_url": "./data/images/173.jpg"
+    "sketch_url": "./data/images/173.jpg",
+    "premios": {
+      "2026": "1r premio Sección 2A"
+    }
   },
   {
     "name": "Pintor Salvador Abril-Peris i Valero",
@@ -1536,7 +1848,10 @@
     "lat": 39.460209638830186,
     "lng": -0.36835161017455764,
     "sector": "Ruzafa – A",
-    "sketch_url": "./data/images/174.jpg"
+    "sketch_url": "./data/images/174.jpg",
+    "premios": {
+      "2026": "2n premio Sección 2A"
+    }
   },
   {
     "name": "Campanar-Hipòlit Rovira",
@@ -1554,7 +1869,10 @@
     "lat": 39.46035936819095,
     "lng": -0.3743065517691463,
     "sector": "Ruzafa – B",
-    "sketch_url": "./data/images/177.jpg"
+    "sketch_url": "./data/images/177.jpg",
+    "premios": {
+      "2026": "5é premio Sección Especial"
+    }
   },
   {
     "name": "Illes Canàries-Trafalgar",
@@ -1563,7 +1881,10 @@
     "lat": 39.46248531292707,
     "lng": -0.3469409259361088,
     "sector": "Camins Al Grau",
-    "sketch_url": "./data/images/178.jpg"
+    "sketch_url": "./data/images/178.jpg",
+    "premios": {
+      "2026": "15é premio Sección 1A"
+    }
   },
   {
     "name": "Ferros-Joan Baptista Perales",
@@ -1572,7 +1893,10 @@
     "lat": 39.46268570402985,
     "lng": -0.3390197788263815,
     "sector": "Camins Al Grau",
-    "sketch_url": "./data/images/179.jpg"
+    "sketch_url": "./data/images/179.jpg",
+    "premios": {
+      "2026": "1r premio Sección 2B"
+    }
   },
   {
     "name": "Plaça d'Espanya-Ramón y Cajal-Pintor Benedito",
@@ -1581,7 +1905,10 @@
     "lat": 39.46529990666118,
     "lng": -0.3807050382177141,
     "sector": "La Roqueta-Arrancapins",
-    "sketch_url": "./data/images/180.jpg"
+    "sketch_url": "./data/images/180.jpg",
+    "premios": {
+      "2026": "1r premio Sección 5A"
+    }
   },
   {
     "name": "Barri Beteró",
@@ -1608,7 +1935,10 @@
     "lat": 39.46228212072669,
     "lng": -0.34306338304685524,
     "sector": "Camins Al Grau",
-    "sketch_url": "./data/images/183.jpg"
+    "sketch_url": "./data/images/183.jpg",
+    "premios": {
+      "2026": "12é premio Sección 3A"
+    }
   },
   {
     "name": "Indústria-Sants Just i Pastor",
@@ -1617,7 +1947,10 @@
     "lat": 39.46778267486452,
     "lng": -0.341797345121452,
     "sector": "Camins Al Grau",
-    "sketch_url": "./data/images/184.jpg"
+    "sketch_url": "./data/images/184.jpg",
+    "premios": {
+      "2026": "10é premio Sección 2A"
+    }
   },
   {
     "name": "Poeta Altet-Benicarló",
@@ -1635,7 +1968,10 @@
     "lat": 39.459612232474804,
     "lng": -0.36662713240429057,
     "sector": "Quatre Carreres",
-    "sketch_url": "./data/images/186.jpg"
+    "sketch_url": "./data/images/186.jpg",
+    "premios": {
+      "2026": "3r premio Sección 5A"
+    }
   },
   {
     "name": "Regne de València-Duc de Calàbria",
@@ -1644,7 +1980,10 @@
     "lat": 39.4637036789513,
     "lng": -0.36696480895598893,
     "sector": "Ruzafa – A",
-    "sketch_url": "./data/images/187.jpg"
+    "sketch_url": "./data/images/187.jpg",
+    "premios": {
+      "2026": "6é premio Sección Especial"
+    }
   },
   {
     "name": "Primat Reig-Vinaròs",
@@ -1653,7 +1992,10 @@
     "lat": 39.48780326855104,
     "lng": -0.3652351258713155,
     "sector": "Pla Del Reial-Benimaclet",
-    "sketch_url": "./data/images/188.jpg"
+    "sketch_url": "./data/images/188.jpg",
+    "premios": {
+      "2026": "3r premio Sección 7C"
+    }
   },
   {
     "name": "Giorgeta-Roís de Corella",
@@ -1662,7 +2004,10 @@
     "lat": 39.45998088872869,
     "lng": -0.3830761808637824,
     "sector": "La Roqueta-Arrancapins",
-    "sketch_url": "./data/images/189.jpg"
+    "sketch_url": "./data/images/189.jpg",
+    "premios": {
+      "2026": "11é premio Sección 4A"
+    }
   },
   {
     "name": "Mare de Déu de la Fontsanta",
@@ -1698,7 +2043,10 @@
     "lat": 39.44786421875481,
     "lng": -0.38657959709267087,
     "sector": "La Creu Coberta",
-    "sketch_url": "./data/images/193.jpg"
+    "sketch_url": "./data/images/193.jpg",
+    "premios": {
+      "2026": "2n premio Sección 7B"
+    }
   },
   {
     "name": "Visitació-Oriola",
@@ -1707,7 +2055,10 @@
     "lat": 39.48472319406416,
     "lng": -0.3769284575294549,
     "sector": "Zaidia",
-    "sketch_url": "./data/images/194.jpg"
+    "sketch_url": "./data/images/194.jpg",
+    "premios": {
+      "2026": "6é premio Sección 6B"
+    }
   },
   {
     "name": "Gravador Jordán-Escultor Pastor",
@@ -1725,7 +2076,10 @@
     "lat": 39.4725340594487,
     "lng": -0.3823005116139993,
     "sector": "El Pilar-Sant Francesc",
-    "sketch_url": "./data/images/196.jpg"
+    "sketch_url": "./data/images/196.jpg",
+    "premios": {
+      "2026": "8é premio Sección 7B"
+    }
   },
   {
     "name": "Monestir de Poblet-Aparicio Albiñana",
@@ -1734,7 +2088,10 @@
     "lat": 39.483874436007554,
     "lng": -0.3970309454529852,
     "sector": "Campanar",
-    "sketch_url": "./data/images/197.jpg"
+    "sketch_url": "./data/images/197.jpg",
+    "premios": {
+      "2026": "2n premio Sección Especial"
+    }
   },
   {
     "name": "Plaza de l'Àngel",
@@ -1743,7 +2100,10 @@
     "lat": 39.478125223089975,
     "lng": -0.37733954379343254,
     "sector": "El Carmen",
-    "sketch_url": "./data/images/198.jpg"
+    "sketch_url": "./data/images/198.jpg",
+    "premios": {
+      "2026": "3r premio Sección 8A"
+    }
   },
   {
     "name": "Veneçuela-Agustí Sales",
@@ -1752,7 +2112,10 @@
     "lat": 39.45528771924896,
     "lng": -0.3880532496615205,
     "sector": "Jesus",
-    "sketch_url": "./data/images/199.jpg"
+    "sketch_url": "./data/images/199.jpg",
+    "premios": {
+      "2026": "7é premio Sección 4C"
+    }
   },
   {
     "name": "Carcaixent-Compromís de Casp",
@@ -1761,7 +2124,10 @@
     "lat": 39.45957313401032,
     "lng": -0.38823533497749685,
     "sector": "Jesus",
-    "sketch_url": "./data/images/200.jpg"
+    "sketch_url": "./data/images/200.jpg",
+    "premios": {
+      "2026": "5é premio Sección 8A"
+    }
   },
   {
     "name": "Palleter-Erudit Orellana",
@@ -1797,7 +2163,10 @@
     "lat": 39.46855013608175,
     "lng": -0.3826168476826125,
     "sector": "La Roqueta-Arrancapins",
-    "sketch_url": "./data/images/204.jpg"
+    "sketch_url": "./data/images/204.jpg",
+    "premios": {
+      "2026": "1r premio Sección 1A"
+    }
   },
   {
     "name": "Nord-Doctor Zamenhoff",
@@ -1806,7 +2175,10 @@
     "lat": 39.4759901445261,
     "lng": -0.39119388059648597,
     "sector": "Botanic-La Petxina",
-    "sketch_url": "./data/images/205.jpg"
+    "sketch_url": "./data/images/205.jpg",
+    "premios": {
+      "2026": "8é premio Sección 4B"
+    }
   },
   {
     "name": "Escalante-Marina",
@@ -1833,7 +2205,10 @@
     "lat": 39.4684383678488,
     "lng": -0.354681514427446,
     "sector": "Camins Al Grau",
-    "sketch_url": "./data/images/212.jpg"
+    "sketch_url": "./data/images/212.jpg",
+    "premios": {
+      "2026": "3r premio Sección 5B"
+    }
   },
   {
     "name": "Vivons-Romeu de Corbera",
@@ -1851,7 +2226,10 @@
     "lat": 39.46199328729429,
     "lng": -0.3901402600898215,
     "sector": "Jesus",
-    "sketch_url": "./data/images/215.jpg"
+    "sketch_url": "./data/images/215.jpg",
+    "premios": {
+      "2026": "10é premio Sección 4B"
+    }
   },
   {
     "name": "Rubén Vela-Doctor Waksman",
@@ -1887,7 +2265,10 @@
     "lat": 39.49052484285274,
     "lng": -0.39359869668803743,
     "sector": "Benicalap",
-    "sketch_url": "./data/images/223.jpg"
+    "sketch_url": "./data/images/223.jpg",
+    "premios": {
+      "2026": "7é premio Sección 5C"
+    }
   },
   {
     "name": "Plaza Sequiota-El Palmar",
@@ -1914,7 +2295,10 @@
     "lat": 39.461572181609505,
     "lng": -0.33303043696653806,
     "sector": "Canyamelar-Grau-Nazaret",
-    "sketch_url": "./data/images/226.jpg"
+    "sketch_url": "./data/images/226.jpg",
+    "premios": {
+      "2026": "9é premio Sección 4A"
+    }
   },
   {
     "name": "Gayano Lluch",
@@ -1923,7 +2307,10 @@
     "lat": 39.49173387148874,
     "lng": -0.38086370356302623,
     "sector": "Rascanya",
-    "sketch_url": "./data/images/227.jpg"
+    "sketch_url": "./data/images/227.jpg",
+    "premios": {
+      "2026": "4rt premio Sección 1B"
+    }
   },
   {
     "name": "Arquitecte Alfaro-Francesc Cubells",
@@ -1932,7 +2319,10 @@
     "lat": 39.463638415411694,
     "lng": -0.3351432531121549,
     "sector": "Canyamelar-Grau-Nazaret",
-    "sketch_url": "./data/images/228.jpg"
+    "sketch_url": "./data/images/228.jpg",
+    "premios": {
+      "2026": "7é premio Sección 4A"
+    }
   },
   {
     "name": "Mossén Josep Cuenca-Pinedo",
@@ -1941,7 +2331,10 @@
     "lat": 39.42222368126172,
     "lng": -0.3397869661332229,
     "sector": "Poblats Al Sud",
-    "sketch_url": "./data/images/230.jpg"
+    "sketch_url": "./data/images/230.jpg",
+    "premios": {
+      "2026": "1r premio Sección 7A"
+    }
   },
   {
     "name": "Poeta Alberola-Totana",
@@ -1950,7 +2343,10 @@
     "lat": 39.46967902886709,
     "lng": -0.39466452280721553,
     "sector": "Olivereta",
-    "sketch_url": "./data/images/231.jpg"
+    "sketch_url": "./data/images/231.jpg",
+    "premios": {
+      "2026": "11é premio Sección 3B"
+    }
   },
   {
     "name": "Pius XI-Fontanars",
@@ -1968,7 +2364,10 @@
     "lat": 39.45711861120772,
     "lng": -0.3623395997560489,
     "sector": "Quatre Carreres",
-    "sketch_url": "./data/images/233.jpg"
+    "sketch_url": "./data/images/233.jpg",
+    "premios": {
+      "2026": "9é premio Sección 6B"
+    }
   },
   {
     "name": "Escalante-Empar Guillén",
@@ -1986,7 +2385,10 @@
     "lat": 39.46739948966099,
     "lng": -0.4152655550543899,
     "sector": "Olivereta",
-    "sketch_url": "./data/images/235.jpg"
+    "sketch_url": "./data/images/235.jpg",
+    "premios": {
+      "2026": "3r premio Sección 2B"
+    }
   },
   {
     "name": "Plaza Jesús",
@@ -2022,7 +2424,10 @@
     "lat": 39.457701025437906,
     "lng": -0.3741454897237825,
     "sector": "Ruzafa – B",
-    "sketch_url": "./data/images/239.jpg"
+    "sketch_url": "./data/images/239.jpg",
+    "premios": {
+      "2026": "6é premio Sección 3C"
+    }
   },
   {
     "name": "Mestre Bellver-Marià Ribera",
@@ -2040,7 +2445,10 @@
     "lat": 39.48430173437475,
     "lng": -0.3566697905647343,
     "sector": "Pla Del Reial-Benimaclet",
-    "sketch_url": "./data/images/241.jpg"
+    "sketch_url": "./data/images/241.jpg",
+    "premios": {
+      "2026": "8é premio Sección 6A"
+    }
   },
   {
     "name": "Ribera-Convent de Santa Clara",
@@ -2049,7 +2457,10 @@
     "lat": 39.467751689734484,
     "lng": -0.3773745861466461,
     "sector": "El Pilar-Sant Francesc",
-    "sketch_url": "./data/images/242.jpg"
+    "sketch_url": "./data/images/242.jpg",
+    "premios": {
+      "2026": "12é premio Sección 1A"
+    }
   },
   {
     "name": "Màlaga-Doctor Montoro",
@@ -2067,7 +2478,10 @@
     "lat": 39.4677940297333,
     "lng": -0.3390263852116358,
     "sector": "Algiros",
-    "sketch_url": "./data/images/244.jpg"
+    "sketch_url": "./data/images/244.jpg",
+    "premios": {
+      "2026": "5é premio Sección 7B"
+    }
   },
   {
     "name": "Manuel de Falla-Tamarindes",
@@ -2094,7 +2508,10 @@
     "lat": 39.4699483292999,
     "lng": -0.34665833627610876,
     "sector": "Algiros",
-    "sketch_url": "./data/images/247.jpg"
+    "sketch_url": "./data/images/247.jpg",
+    "premios": {
+      "2026": "8é premio Sección 5A"
+    }
   },
   {
     "name": "Saineter Arniches-Arquitecte Ribes",
@@ -2112,7 +2529,10 @@
     "lat": 39.44884432878056,
     "lng": -0.39118506635730355,
     "sector": "La Creu Coberta",
-    "sketch_url": "./data/images/249.jpg"
+    "sketch_url": "./data/images/249.jpg",
+    "premios": {
+      "2026": "7é premio Sección 4B"
+    }
   },
   {
     "name": "Cadis-Dénia",
@@ -2121,7 +2541,10 @@
     "lat": 39.463208352054146,
     "lng": -0.3746039405177908,
     "sector": "Ruzafa – B",
-    "sketch_url": "./data/images/250.jpg"
+    "sketch_url": "./data/images/250.jpg",
+    "premios": {
+      "2026": "6é premio Sección 3B"
+    }
   },
   {
     "name": "Carrera de Sant Lluís-Rafael Albiñana",
@@ -2157,7 +2580,10 @@
     "lat": 39.45301536477047,
     "lng": -0.3905431396733902,
     "sector": "La Creu Coberta",
-    "sketch_url": "./data/images/258.jpg"
+    "sketch_url": "./data/images/258.jpg",
+    "premios": {
+      "2026": "9é premio Sección 5A"
+    }
   },
   {
     "name": "Oltà-Juan Ramón Jiménez",
@@ -2175,7 +2601,10 @@
     "lat": 39.453587061853845,
     "lng": -0.40444333961030704,
     "sector": "Patraix",
-    "sketch_url": "./data/images/260.jpg"
+    "sketch_url": "./data/images/260.jpg",
+    "premios": {
+      "2026": "2n premio Sección 3B"
+    }
   },
   {
     "name": "Norman Bethune - Guillem Despuig",
@@ -2193,7 +2622,10 @@
     "lat": 39.49953914803586,
     "lng": -0.4272427402954683,
     "sector": "Benimamet-Burjasot-Beniferri",
-    "sketch_url": "./data/images/262.jpg"
+    "sketch_url": "./data/images/262.jpg",
+    "premios": {
+      "2026": "8é premio Sección 6B"
+    }
   },
   {
     "name": "Riu Segura-Forn d'Alcedo",
@@ -2247,7 +2679,10 @@
     "lat": 39.49746987963352,
     "lng": -0.4178785752519145,
     "sector": "Benimamet-Burjasot-Beniferri",
-    "sketch_url": "./data/images/274.jpg"
+    "sketch_url": "./data/images/274.jpg",
+    "premios": {
+      "2026": "11é premio Sección 3A"
+    }
   },
   {
     "name": "Carrera de Malilla-Illa Cabrera",
@@ -2256,7 +2691,10 @@
     "lat": 39.44915317522933,
     "lng": -0.37986959172337775,
     "sector": "Quatre Carreres",
-    "sketch_url": "./data/images/276.jpg"
+    "sketch_url": "./data/images/276.jpg",
+    "premios": {
+      "2026": "12é premio Sección 1B"
+    }
   },
   {
     "name": "Guardacostes-Músic Jarque Cualladó",
@@ -2274,7 +2712,10 @@
     "lat": 39.466282687706006,
     "lng": -0.36740986607630627,
     "sector": "Pla Del Remei-Gran Via",
-    "sketch_url": "./data/images/278.jpg"
+    "sketch_url": "./data/images/278.jpg",
+    "premios": {
+      "2026": "10é premio Sección 1B"
+    }
   },
   {
     "name": "Maties Perello-Lluís de Santàngel",
@@ -2292,7 +2733,10 @@
     "lat": 39.46704952555757,
     "lng": -0.40869583327406844,
     "sector": "Olivereta",
-    "sketch_url": "./data/images/280.jpg"
+    "sketch_url": "./data/images/280.jpg",
+    "premios": {
+      "2026": "3r premio Sección 8C"
+    }
   },
   {
     "name": "Ministre Luis Mayans-Argenter Suárez",
@@ -2301,7 +2745,10 @@
     "lat": 39.48536060474848,
     "lng": -0.3720636032781886,
     "sector": "Sin sector",
-    "sketch_url": "./data/images/281.jpg"
+    "sketch_url": "./data/images/281.jpg",
+    "premios": {
+      "2026": "2n premio Sección 4B"
+    }
   },
   {
     "name": "Mare de Déu de la Cabeça-J.M. Mortes Lerma",
@@ -2319,7 +2766,10 @@
     "lat": 39.46503559236648,
     "lng": -0.3633524959570204,
     "sector": "Pla Del Remei-Gran Via",
-    "sketch_url": "./data/images/283.jpg"
+    "sketch_url": "./data/images/283.jpg",
+    "premios": {
+      "2026": "12é premio Sección 3C"
+    }
   },
   {
     "name": "Ceramista Ros-Josep Maria Mortes Lerma",
@@ -2328,7 +2778,10 @@
     "lat": 39.463542797929584,
     "lng": -0.40345926033496476,
     "sector": "Patraix",
-    "sketch_url": "./data/images/284.jpg"
+    "sketch_url": "./data/images/284.jpg",
+    "premios": {
+      "2026": "5é premio Sección 2B"
+    }
   },
   {
     "name": "Rodríguez de Cepeda-Llorenç Palmireno",
@@ -2346,7 +2799,10 @@
     "lat": 39.4703536252716,
     "lng": -0.41352278127992215,
     "sector": "Mislata",
-    "sketch_url": "./data/images/286.jpg"
+    "sketch_url": "./data/images/286.jpg",
+    "premios": {
+      "2026": "1r premio Sección 8C"
+    }
   },
   {
     "name": "Riu Bidasoa-Comte de Torrefiel",
@@ -2355,7 +2811,10 @@
     "lat": 39.498171458274726,
     "lng": -0.37741928924965046,
     "sector": "Rascanya",
-    "sketch_url": "./data/images/287.jpg"
+    "sketch_url": "./data/images/287.jpg",
+    "premios": {
+      "2026": "4rt premio Sección 6B"
+    }
   },
   {
     "name": "Periodista Gil Sumbiela-Assutzena",
@@ -2364,7 +2823,10 @@
     "lat": 39.492963347730765,
     "lng": -0.39012458308617143,
     "sector": "Benicalap",
-    "sketch_url": "./data/images/288.jpg"
+    "sketch_url": "./data/images/288.jpg",
+    "premios": {
+      "2026": "4rt premio Sección 4A"
+    }
   },
   {
     "name": "Isabel la Catòlica-Ciril Amorós",
@@ -2373,7 +2835,10 @@
     "lat": 39.46802481927411,
     "lng": -0.36987256054880074,
     "sector": "Pla Del Remei-Gran Via",
-    "sketch_url": "./data/images/289.jpg"
+    "sketch_url": "./data/images/289.jpg",
+    "premios": {
+      "2026": "3r premio Sección 2A"
+    }
   },
   {
     "name": "Cases de Bàrcena",
@@ -2382,7 +2847,10 @@
     "lat": 39.521355896197555,
     "lng": -0.358425326048514,
     "sector": "Rascanya",
-    "sketch_url": "./data/images/290.jpg"
+    "sketch_url": "./data/images/290.jpg",
+    "premios": {
+      "2026": "6é premio Sección 8A"
+    }
   },
   {
     "name": "Jerónima Galés-Litògraf Pascual i Abad",
@@ -2391,7 +2859,10 @@
     "lat": 39.451570152583095,
     "lng": -0.39159405472765896,
     "sector": "La Creu Coberta",
-    "sketch_url": "./data/images/291.jpg"
+    "sketch_url": "./data/images/291.jpg",
+    "premios": {
+      "2026": "16é premio Sección 1A"
+    }
   },
   {
     "name": "Mestre Arambul Sanz-Campanar",
@@ -2400,7 +2871,10 @@
     "lat": 39.481608702760916,
     "lng": -0.3953971581406712,
     "sector": "Campanar",
-    "sketch_url": "./data/images/292.jpg"
+    "sketch_url": "./data/images/292.jpg",
+    "premios": {
+      "2026": "5é premio Sección 3B"
+    }
   },
   {
     "name": "Benimodo-Enginyer Dicenta",
@@ -2418,7 +2892,10 @@
     "lat": 39.459644712061916,
     "lng": -0.3909764853881572,
     "sector": "Jesus",
-    "sketch_url": "./data/images/294.jpg"
+    "sketch_url": "./data/images/294.jpg",
+    "premios": {
+      "2026": "1r premio Sección 6B"
+    }
   },
   {
     "name": "Camí de Montcada-Pintor Jacomart",
@@ -2427,7 +2904,10 @@
     "lat": 39.49588618601104,
     "lng": -0.3811163787157905,
     "sector": "Rascanya",
-    "sketch_url": "./data/images/295.jpg"
+    "sketch_url": "./data/images/295.jpg",
+    "premios": {
+      "2026": "8é premio Sección 4C"
+    }
   },
   {
     "name": "Plaza Hondures",
@@ -2436,7 +2916,10 @@
     "lat": 39.47429651460324,
     "lng": -0.34433241671383663,
     "sector": "Algiros",
-    "sketch_url": "./data/images/296.jpg"
+    "sketch_url": "./data/images/296.jpg",
+    "premios": {
+      "2026": "3r premio Sección 8B"
+    }
   },
   {
     "name": "Hernández Lázaro-Vall de la Ballestera",
@@ -2445,7 +2928,10 @@
     "lat": 39.479311833161084,
     "lng": -0.4033495755875469,
     "sector": "Campanar",
-    "sketch_url": "./data/images/297.jpg"
+    "sketch_url": "./data/images/297.jpg",
+    "premios": {
+      "2026": "4rt premio Sección 8C"
+    }
   },
   {
     "name": "Pere Cabanes-Comte de Lumiares",
@@ -2463,7 +2949,10 @@
     "lat": 39.42711859200086,
     "lng": -0.3926302284069324,
     "sector": "Poblats Al Sud",
-    "sketch_url": "./data/images/299.jpg"
+    "sketch_url": "./data/images/299.jpg",
+    "premios": {
+      "2026": "8é premio Sección 7C"
+    }
   },
   {
     "name": "Santa Maria Micaela-Martí l'Humà",
@@ -2472,7 +2961,10 @@
     "lat": 39.47168631594376,
     "lng": -0.3917286539946449,
     "sector": "Botanic-La Petxina",
-    "sketch_url": "./data/images/300.jpg"
+    "sketch_url": "./data/images/300.jpg",
+    "premios": {
+      "2026": "3r premio Sección 1B"
+    }
   },
   {
     "name": "Xiva-Francisco de Llano",
@@ -2499,7 +2991,10 @@
     "lat": 39.459911855308036,
     "lng": -0.3390484374350722,
     "sector": "Canyamelar-Grau-Nazaret",
-    "sketch_url": "./data/images/304.jpg"
+    "sketch_url": "./data/images/304.jpg",
+    "premios": {
+      "2026": "5é premio Sección 5A"
+    }
   },
   {
     "name": "Universitat Vella-Plaza Patriarca",
@@ -2526,7 +3021,10 @@
     "lat": 39.448676716528475,
     "lng": -0.36746676348664586,
     "sector": "Quatre Carreres",
-    "sketch_url": "./data/images/307.jpg"
+    "sketch_url": "./data/images/307.jpg",
+    "premios": {
+      "2026": "7é premio Sección 8A"
+    }
   },
   {
     "name": "Mercat de Castella",
@@ -2535,7 +3033,10 @@
     "lat": 39.46574816053042,
     "lng": -0.4028847355135055,
     "sector": "Olivereta",
-    "sketch_url": "./data/images/308.jpg"
+    "sketch_url": "./data/images/308.jpg",
+    "premios": {
+      "2026": "6é premio Sección 4B"
+    }
   },
   {
     "name": "Plaza del Negret",
@@ -2544,7 +3045,10 @@
     "lat": 39.47606471901717,
     "lng": -0.3774221698567762,
     "sector": "La Seu – La Xerea – El Mercat",
-    "sketch_url": "./data/images/309.jpg"
+    "sketch_url": "./data/images/309.jpg",
+    "premios": {
+      "2026": "5é premio Sección 6A"
+    }
   },
   {
     "name": "Doctor Gil i Morte-Doctor Vila Barberà",
@@ -2553,7 +3057,10 @@
     "lat": 39.46260763530272,
     "lng": -0.3804479169630393,
     "sector": "La Roqueta-Arrancapins",
-    "sketch_url": "./data/images/310.jpg"
+    "sketch_url": "./data/images/310.jpg",
+    "premios": {
+      "2026": "4rt premio Sección 2B"
+    }
   },
   {
     "name": "Castielfabib-Marqués de Sant Joan",
@@ -2562,7 +3069,10 @@
     "lat": 39.47852444212378,
     "lng": -0.3957911890306725,
     "sector": "Campanar",
-    "sketch_url": "./data/images/311.jpg"
+    "sketch_url": "./data/images/311.jpg",
+    "premios": {
+      "2026": "9é premio Sección 5C"
+    }
   },
   {
     "name": "Sèneca-Poeta Mas i Ros",
@@ -2580,7 +3090,10 @@
     "lat": 39.51717437790738,
     "lng": -0.3780316053508553,
     "sector": "Rascanya",
-    "sketch_url": "./data/images/313.jpg"
+    "sketch_url": "./data/images/313.jpg",
+    "premios": {
+      "2026": "2n premio Sección 8C"
+    }
   },
   {
     "name": "Tres Camins-Pinedo",
@@ -2598,7 +3111,10 @@
     "lat": 39.45934771193545,
     "lng": -0.4004608003342159,
     "sector": "Patraix",
-    "sketch_url": "./data/images/316.jpg"
+    "sketch_url": "./data/images/316.jpg",
+    "premios": {
+      "2026": "1r premio Sección 1B"
+    }
   },
   {
     "name": "Camí Nou de Picanya-Nicolau Primitiu",
@@ -2607,7 +3123,10 @@
     "lat": 39.45634263283864,
     "lng": -0.4031417034602587,
     "sector": "Patraix",
-    "sketch_url": "./data/images/317.jpg"
+    "sketch_url": "./data/images/317.jpg",
+    "premios": {
+      "2026": "12é premio Sección 3B"
+    }
   },
   {
     "name": "Sant Vicent de Paül-Dip. Clara Campoamor",
@@ -2625,7 +3144,10 @@
     "lat": 39.49387795534716,
     "lng": -0.3898406910079974,
     "sector": "Benicalap",
-    "sketch_url": "./data/images/320.jpg"
+    "sketch_url": "./data/images/320.jpg",
+    "premios": {
+      "2026": "3r premio Sección 4C"
+    }
   },
   {
     "name": "Escultor García Mas-Puerto de Santa María",
@@ -2634,7 +3156,10 @@
     "lat": 39.48505060110104,
     "lng": -0.39994799188087216,
     "sector": "Campanar",
-    "sketch_url": "./data/images/321.jpg"
+    "sketch_url": "./data/images/321.jpg",
+    "premios": {
+      "2026": "2n premio Sección 7C"
+    }
   },
   {
     "name": "Barraca-Columbretes",
@@ -2661,7 +3186,10 @@
     "lat": 39.4530471194324,
     "lng": -0.38070728342626975,
     "sector": "Quatre Carreres",
-    "sketch_url": "./data/images/324.jpg"
+    "sketch_url": "./data/images/324.jpg",
+    "premios": {
+      "2026": "1r premio Sección 3C"
+    }
   },
   {
     "name": "Mestre Rodrigo-General Avilés",
@@ -2670,7 +3198,10 @@
     "lat": 39.48322855718786,
     "lng": -0.404595594475544,
     "sector": "Campanar",
-    "sketch_url": "./data/images/325.jpg"
+    "sketch_url": "./data/images/325.jpg",
+    "premios": {
+      "2026": "1r premio Sección 3A"
+    }
   },
   {
     "name": "Hellín-Pere de Luna",
@@ -2679,7 +3210,10 @@
     "lat": 39.43350870092288,
     "lng": -0.39052991297316186,
     "sector": "Poblats Al Sud",
-    "sketch_url": "./data/images/326.jpg"
+    "sketch_url": "./data/images/326.jpg",
+    "premios": {
+      "2026": "7é premio Sección 5A"
+    }
   },
   {
     "name": "Pintor Pasqual Capuz-Fontanars",
@@ -2688,7 +3222,10 @@
     "lat": 39.46207918311973,
     "lng": -0.39653900502923506,
     "sector": "Patraix",
-    "sketch_url": "./data/images/327.jpg"
+    "sketch_url": "./data/images/327.jpg",
+    "premios": {
+      "2026": "2n premio Sección 5A"
+    }
   },
   {
     "name": "Enginyer Manuel Maese-Cristóbal Llorens",
@@ -2697,7 +3234,10 @@
     "lat": 39.4826516487807,
     "lng": -0.33055559683662017,
     "sector": "Malvarrosa-Cabanyal-Betero",
-    "sketch_url": "./data/images/328.jpg"
+    "sketch_url": "./data/images/328.jpg",
+    "premios": {
+      "2026": "6é premio Sección 4C"
+    }
   },
   {
     "name": "Grup de Peixcadors  del Perellonet",
@@ -2706,7 +3246,10 @@
     "lat": 39.30801699570303,
     "lng": -0.2971537689519083,
     "sector": "Poblats Al Sud",
-    "sketch_url": "./data/images/329.jpg"
+    "sketch_url": "./data/images/329.jpg",
+    "premios": {
+      "2026": "3r premio Sección 6B"
+    }
   },
   {
     "name": "Vicent Sancho Tello-Xile",
@@ -2715,7 +3258,10 @@
     "lat": 39.46971704584027,
     "lng": -0.35675921723112397,
     "sector": "Pla Del Reial-Benimaclet",
-    "sketch_url": "./data/images/330.jpg"
+    "sketch_url": "./data/images/330.jpg",
+    "premios": {
+      "2026": "6é premio Sección 1B"
+    }
   },
   {
     "name": "Serra Martés-Miguel Servet",
@@ -2724,7 +3270,10 @@
     "lat": 39.488057158784265,
     "lng": -0.39281340655909247,
     "sector": "Campanar",
-    "sketch_url": "./data/images/336.jpg"
+    "sketch_url": "./data/images/336.jpg",
+    "premios": {
+      "2026": "10é premio Sección 3C"
+    }
   },
   {
     "name": "Embarcador-Historiador Betí",
@@ -2733,7 +3282,10 @@
     "lat": 39.383109188222605,
     "lng": -0.3333067767609018,
     "sector": "Poblats Al Sud",
-    "sketch_url": "./data/images/338.jpg"
+    "sketch_url": "./data/images/338.jpg",
+    "premios": {
+      "2026": "5é premio Sección 7A"
+    }
   },
   {
     "name": "Blanqueries",
@@ -2760,7 +3312,10 @@
     "lat": 39.449292699953794,
     "lng": -0.38938505671853046,
     "sector": "La Creu Coberta",
-    "sketch_url": "./data/images/341.jpg"
+    "sketch_url": "./data/images/341.jpg",
+    "premios": {
+      "2026": "1r premio Sección 7C"
+    }
   },
   {
     "name": "Avinguda de Valladolid-Enginyer Vicent Pichó",
@@ -2778,7 +3333,10 @@
     "lat": 39.44765777458184,
     "lng": -0.3709931001417475,
     "sector": "Quatre Carreres",
-    "sketch_url": "./data/images/343.jpg"
+    "sketch_url": "./data/images/343.jpg",
+    "premios": {
+      "2026": "2n premio Sección 8B"
+    }
   },
   {
     "name": "Polo y Peyrolón-Ciutat de Mula",
@@ -2787,7 +3345,10 @@
     "lat": 39.47441479319403,
     "lng": -0.35442051025428367,
     "sector": "Pla Del Reial-Benimaclet",
-    "sketch_url": "./data/images/344.jpg"
+    "sketch_url": "./data/images/344.jpg",
+    "premios": {
+      "2026": "7é premio Sección 6A"
+    }
   },
   {
     "name": "Riu Tajo-Cavite",
@@ -2796,7 +3357,10 @@
     "lat": 39.47767532871639,
     "lng": -0.32741127595698505,
     "sector": "Malvarrosa-Cabanyal-Betero",
-    "sketch_url": "./data/images/346.jpg"
+    "sketch_url": "./data/images/346.jpg",
+    "premios": {
+      "2026": "2n premio Sección 5C"
+    }
   },
   {
     "name": "Pare Lluís Navarro-Remunta",
@@ -2814,7 +3378,10 @@
     "lat": 39.46210003770514,
     "lng": -0.3739215059338786,
     "sector": "Ruzafa – B",
-    "sketch_url": "./data/images/348.jpg"
+    "sketch_url": "./data/images/348.jpg",
+    "premios": {
+      "2026": "9é premio Sección 4C"
+    }
   },
   {
     "name": "Sants Just i Pastor-Serradora",
@@ -2823,7 +3390,10 @@
     "lat": 39.46627553490898,
     "lng": -0.33654779566390125,
     "sector": "Camins Al Grau",
-    "sketch_url": "./data/images/349.jpg"
+    "sketch_url": "./data/images/349.jpg",
+    "premios": {
+      "2026": "6é premio Sección 5A"
+    }
   },
   {
     "name": "Doctor Álvaro López-Sant Joan de Déu",
@@ -2832,7 +3402,10 @@
     "lat": 39.47782364166739,
     "lng": -0.3315674545359686,
     "sector": "Malvarrosa-Cabanyal-Betero",
-    "sketch_url": "./data/images/351.jpg"
+    "sketch_url": "./data/images/351.jpg",
+    "premios": {
+      "2026": "3r premio Sección 7B"
+    }
   },
   {
     "name": "Poeta Emili Baró-Enric Ginesta",
@@ -2841,7 +3414,10 @@
     "lat": 39.49183166236876,
     "lng": -0.35844506393542175,
     "sector": "Pla Del Reial-Benimaclet",
-    "sketch_url": "./data/images/352.jpg"
+    "sketch_url": "./data/images/352.jpg",
+    "premios": {
+      "2026": "4rt premio Sección 5B"
+    }
   },
   {
     "name": "Alcàsser-Iàtova",
@@ -2859,7 +3435,10 @@
     "lat": 39.45466548019984,
     "lng": -0.35954650200303595,
     "sector": "Quatre Carreres",
-    "sketch_url": "./data/images/354.jpg"
+    "sketch_url": "./data/images/354.jpg",
+    "premios": {
+      "2026": "6é premio Sección 6C"
+    }
   },
   {
     "name": "Evarist Bas-Cullera",
@@ -2895,7 +3474,10 @@
     "lat": 39.47694606123328,
     "lng": -0.353724216433461,
     "sector": "Algiros",
-    "sketch_url": "./data/images/360.jpg"
+    "sketch_url": "./data/images/360.jpg",
+    "premios": {
+      "2026": "3r premio Sección 6A"
+    }
   },
   {
     "name": "Ciutat de Córdova-Vicent Tomàs Martí",
@@ -2913,7 +3495,10 @@
     "lat": 39.49745257459591,
     "lng": -0.37065933733266543,
     "sector": "Rascanya",
-    "sketch_url": "./data/images/366.jpg"
+    "sketch_url": "./data/images/366.jpg",
+    "premios": {
+      "2026": "9é premio Sección 4B"
+    }
   },
   {
     "name": "Puebla de Valverde-II República Espanyola",
@@ -2958,7 +3543,10 @@
     "lat": 39.46792982172759,
     "lng": -0.413282900120297,
     "sector": "Olivereta",
-    "sketch_url": "./data/images/371.jpg"
+    "sketch_url": "./data/images/371.jpg",
+    "premios": {
+      "2026": "4rt premio Sección 7A"
+    }
   },
   {
     "name": "Antiga Senda de Senent-Albereda",
@@ -2967,7 +3555,10 @@
     "lat": 39.46528639211273,
     "lng": -0.35863690912085333,
     "sector": "Pla Del Reial-Benimaclet",
-    "sketch_url": "./data/images/373.jpg"
+    "sketch_url": "./data/images/373.jpg",
+    "premios": {
+      "2026": "1r premio Sección 8A"
+    }
   },
   {
     "name": "Pere Cabanes-Joan XXIII",
@@ -2985,7 +3576,10 @@
     "lat": 39.461834536166066,
     "lng": -0.3550974321229795,
     "sector": "Camins Al Grau",
-    "sketch_url": "./data/images/375.jpg"
+    "sketch_url": "./data/images/375.jpg",
+    "premios": {
+      "2026": "3r premio Sección 3A"
+    }
   },
   {
     "name": "Avinguda de França-Alfred Toran i Olmos",
@@ -2994,7 +3588,10 @@
     "lat": 39.45833266721674,
     "lng": -0.34981762918440623,
     "sector": "Camins Al Grau",
-    "sketch_url": "./data/images/377.jpg"
+    "sketch_url": "./data/images/377.jpg",
+    "premios": {
+      "2026": "5é premio Sección 3A"
+    }
   },
   {
     "name": "La Vall d'Albaida-La Canal de Navarrés",
@@ -3003,7 +3600,10 @@
     "lat": 39.49219526139716,
     "lng": -0.40182444701162895,
     "sector": "Campanar",
-    "sketch_url": "./data/images/379.jpg"
+    "sketch_url": "./data/images/379.jpg",
+    "premios": {
+      "2026": "4rt premio Sección 8B"
+    }
   },
   {
     "name": "Pintor Maella-França-Menorca",
@@ -3012,7 +3612,10 @@
     "lat": 39.458259797596426,
     "lng": -0.3482630248900891,
     "sector": "Camins Al Grau",
-    "sketch_url": "./data/images/380.jpg"
+    "sketch_url": "./data/images/380.jpg",
+    "premios": {
+      "2026": "11é premio Sección 2A"
+    }
   },
   {
     "name": "L'Horta Sud-La Costera",
@@ -3030,7 +3633,10 @@
     "lat": 39.491670787473986,
     "lng": -0.3650317499096773,
     "sector": "Rascanya",
-    "sketch_url": "./data/images/384.jpg"
+    "sketch_url": "./data/images/384.jpg",
+    "premios": {
+      "2026": "10é premio Sección 1A"
+    }
   },
   {
     "name": "Plaza Vicent Castell Maíques",
@@ -3039,7 +3645,10 @@
     "lat": 39.4672035778067,
     "lng": -0.41120491370361,
     "sector": "Olivereta",
-    "sketch_url": "./data/images/385.jpg"
+    "sketch_url": "./data/images/385.jpg",
+    "premios": {
+      "2026": "6é premio Sección 7C"
+    }
   },
   {
     "name": "Menorca-Lluís Bolinches",
@@ -3048,7 +3657,10 @@
     "lat": 39.45555426298999,
     "lng": -0.34518335520122395,
     "sector": "Canyamelar-Grau-Nazaret",
-    "sketch_url": "./data/images/386.jpg"
+    "sketch_url": "./data/images/386.jpg",
+    "premios": {
+      "2026": "7é premio Sección 7C"
+    }
   },
   {
     "name": "Manuel Melià i Fuster-Carles Cortina",
@@ -3057,7 +3669,10 @@
     "lat": 39.498608884289986,
     "lng": -0.38933550661099564,
     "sector": "Benicalap",
-    "sketch_url": "./data/images/388.jpg"
+    "sketch_url": "./data/images/388.jpg",
+    "premios": {
+      "2026": "3r premio Sección 5C"
+    }
   },
   {
     "name": "Manuel Melià i Fuster-María Fernanda D'Ocón",
@@ -3084,7 +3699,10 @@
     "lat": 39.45112261735788,
     "lng": -0.36180576185667435,
     "sector": "Quatre Carreres",
-    "sketch_url": "./data/images/392.jpg"
+    "sketch_url": "./data/images/392.jpg",
+    "premios": {
+      "2026": "10é premio Sección 2B"
+    }
   },
   {
     "name": "Dr. García Brustenga - Vicente Barrera Cambra",
@@ -3102,6 +3720,9 @@
     "lat": 39.45917916175017,
     "lng": -0.33304296521736076,
     "sector": "Canyamelar-Grau-Nazaret",
-    "sketch_url": "./data/images/395.jpg"
+    "sketch_url": "./data/images/395.jpg",
+    "premios": {
+      "2026": "4rt premio Sección 6A"
+    }
   }
 ]
